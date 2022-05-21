@@ -1,1 +1,1 @@
-# steiner tree problem
+# Algoritmen voor het steinerboomprobleem
