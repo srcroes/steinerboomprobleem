@@ -1,0 +1,707 @@
+graphs/steinlib/B/b01.stp
+	#edges    | original: 63, SD: 58, SD2: 56, 1-2: 37, SD2->1-2: 26, 1-2->SD2: 28
+	#vertices | original: 50, SD: 50, SD2: 50, 1-2: 25, SD2->1-2: 21, 1-2->SD2: 25
+	pp time   | original: 0, SD: 0.034143, SD2: 0.0079842, 1-2: 0.0119041, SD2->1-2: 0.0051643, 1-2->SD2: 0.0099494
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 82.0, SD: 82.0, SD2: 82.0, 1-2: 82.0, SD2->1-2: 82.0, 1-2->SD2: 82.0
+	time      | original: 1.2157824, SD: 0.3682643, SD2: 0.1949167, 1-2: 0.1201868, SD2->1-2: 0.0472301, 1-2->SD2: 0.0579225
+graphs/steinlib/B/b02.stp
+	#edges    | original: 63, SD: 62, SD2: 60, 1-2: 41, SD2->1-2: 36, 1-2->SD2: 35
+	#vertices | original: 50, SD: 50, SD2: 50, 1-2: 28, SD2->1-2: 26, 1-2->SD2: 28
+	pp time   | original: 0, SD: 0.0043649, SD2: 0.0021275, 1-2: 3.227E-4, SD2->1-2: 0.0025249, 1-2->SD2: 0.0012055
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 83.0, SD: 83.0, SD2: 83.0, 1-2: 83.0, SD2->1-2: 83.0, 1-2->SD2: 83.0
+	time      | original: 0.3239877, SD: 0.4380017, SD2: 0.2881501, 1-2: 0.1479968, SD2->1-2: 0.0937661, 1-2->SD2: 0.0974996
+graphs/steinlib/B/b03.stp
+	#edges    | original: 63, SD: 54, SD2: 54, 1-2: 46, SD2->1-2: 36, 1-2->SD2: 35
+	#vertices | original: 50, SD: 50, SD2: 50, 1-2: 34, SD2->1-2: 32, 1-2->SD2: 34
+	pp time   | original: 0, SD: 0.0021987, SD2: 0.0034258, 1-2: 1.1E-4, SD2->1-2: 0.0029147, 1-2->SD2: 0.0022405
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 138.0, SD: 138.0, SD2: 138.0, 1-2: 138.0, SD2->1-2: 138.0, 1-2->SD2: 138.0
+	time      | original: 0.4469557, SD: 0.3631599, SD2: 0.3582968, 1-2: 0.2539158, SD2->1-2: 0.1708908, 1-2->SD2: 0.2093473
+graphs/steinlib/B/b04.stp
+	#edges    | original: 100, SD: 83, SD2: 72, 1-2: 90, SD2->1-2: 53, 1-2->SD2: 57
+	#vertices | original: 50, SD: 50, SD2: 50, 1-2: 40, SD2->1-2: 32, 1-2->SD2: 40
+	pp time   | original: 0, SD: 0.0015664, SD2: 0.00152, 1-2: 1.255E-4, SD2->1-2: 0.0023569, 1-2->SD2: 0.0017192
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 59.0, SD: 59.0, SD2: 59.0, 1-2: 59.0, SD2->1-2: 59.0, 1-2->SD2: 59.0
+	time      | original: 0.4368489, SD: 0.3225727, SD2: 0.2433135, 1-2: 0.2962223, SD2->1-2: 0.1108524, 1-2->SD2: 0.1605397
+graphs/steinlib/B/b05.stp
+	#edges    | original: 100, SD: 74, SD2: 68, 1-2: 94, SD2->1-2: 47, 1-2->SD2: 62
+	#vertices | original: 50, SD: 50, SD2: 50, 1-2: 44, SD2->1-2: 29, 1-2->SD2: 44
+	pp time   | original: 0, SD: 0.0015732, SD2: 0.0014459, 1-2: 1.251E-4, SD2->1-2: 0.0015005, 1-2->SD2: 0.0013135
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 61.0, SD: 61.0, SD2: 61.0, 1-2: 61.0, SD2->1-2: 61.0, 1-2->SD2: 61.0
+	time      | original: 0.4419922, SD: 0.3424355, SD2: 0.2700035, 1-2: 0.3231779, SD2->1-2: 0.1159748, 1-2->SD2: 0.2509678
+graphs/steinlib/B/b06.stp
+	#edges    | original: 100, SD: 74, SD2: 73, 1-2: 96, SD2->1-2: 62, 1-2->SD2: 68
+	#vertices | original: 50, SD: 50, SD2: 50, 1-2: 47, SD2->1-2: 40, 1-2->SD2: 47
+	pp time   | original: 0, SD: 0.00209, SD2: 0.0028085, 1-2: 8.85E-5, SD2->1-2: 0.0028456, 1-2->SD2: 0.003022
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 122.0, SD: 122.0, SD2: 122.0, 1-2: 122.0, SD2->1-2: 122.0, 1-2->SD2: 122.0
+	time      | original: 0.5858573, SD: 0.5130226, SD2: 0.5629581, 1-2: 0.5346391, SD2->1-2: 0.3714957, 1-2->SD2: 0.4995682
+graphs/steinlib/B/b07.stp
+	#edges    | original: 94, SD: 92, SD2: 88, 1-2: 58, SD2->1-2: 50, 1-2->SD2: 47
+	#vertices | original: 75, SD: 75, SD2: 75, 1-2: 40, SD2->1-2: 38, 1-2->SD2: 40
+	pp time   | original: 0, SD: 0.0026813, SD2: 0.0023046, 1-2: 1.344E-4, SD2->1-2: 0.0023516, 1-2->SD2: 0.0010054
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 111.0, SD: 111.0, SD2: 111.0, 1-2: 111.0, SD2->1-2: 111.0, 1-2->SD2: 111.0
+	time      | original: 0.5109393, SD: 0.4587099, SD2: 0.4689886, 1-2: 0.1681268, SD2->1-2: 0.1497826, 1-2->SD2: 0.1342988
+graphs/steinlib/B/b08.stp
+	#edges    | original: 94, SD: 87, SD2: 83, 1-2: 54, SD2->1-2: 39, 1-2->SD2: 43
+	#vertices | original: 75, SD: 75, SD2: 75, 1-2: 37, SD2->1-2: 32, 1-2->SD2: 37
+	pp time   | original: 0, SD: 0.0023843, SD2: 0.0025569, 1-2: 1.402E-4, SD2->1-2: 0.0033715, 1-2->SD2: 0.0015058
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 104.0, SD: 104.0, SD2: 104.0, 1-2: 104.0, SD2->1-2: 104.0, 1-2->SD2: 104.0
+	time      | original: 0.5769126, SD: 0.5496829, SD2: 0.5548703, 1-2: 0.2008131, SD2->1-2: 0.117168, 1-2->SD2: 0.1431516
+graphs/steinlib/B/b09.stp
+	#edges    | original: 94, SD: 83, SD2: 82, 1-2: 69, SD2->1-2: 56, 1-2->SD2: 53
+	#vertices | original: 75, SD: 75, SD2: 75, 1-2: 50, SD2->1-2: 49, 1-2->SD2: 50
+	pp time   | original: 0, SD: 0.0047783, SD2: 0.0059197, 1-2: 1.377E-4, SD2->1-2: 0.0060935, 1-2->SD2: 0.0046911
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 220.0, SD: 220.0, SD2: 220.0, 1-2: 220.0, SD2->1-2: 220.0, 1-2->SD2: 220.0
+	time      | original: 1.0150223, SD: 0.9759358, SD2: 0.9334035, 1-2: 0.7114306, SD2->1-2: 0.6021308, 1-2->SD2: 0.6159316
+graphs/steinlib/B/b10.stp
+	#edges    | original: 150, SD: 138, SD2: 128, 1-2: 136, SD2->1-2: 108, 1-2->SD2: 110
+	#vertices | original: 75, SD: 75, SD2: 75, 1-2: 61, SD2->1-2: 55, 1-2->SD2: 61
+	pp time   | original: 0, SD: 0.0026807, SD2: 0.0031835, 1-2: 1.268E-4, SD2->1-2: 0.0027113, 1-2->SD2: 0.0018505
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 86.0, SD: 86.0, SD2: 86.0, 1-2: 86.0, SD2->1-2: 86.0, 1-2->SD2: 86.0
+	time      | original: 0.988856, SD: 0.9173318, SD2: 0.6858291, 1-2: 0.7004523, SD2->1-2: 0.5456873, 1-2->SD2: 0.5905529
+graphs/steinlib/B/b11.stp
+	#edges    | original: 150, SD: 127, SD2: 114, 1-2: 139, SD2->1-2: 95, 1-2->SD2: 101
+	#vertices | original: 75, SD: 75, SD2: 75, 1-2: 65, SD2->1-2: 57, 1-2->SD2: 65
+	pp time   | original: 0, SD: 0.0029288, SD2: 0.0030756, 1-2: 1.165E-4, SD2->1-2: 0.0034993, 1-2->SD2: 0.002506
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 88.0, SD: 88.0, SD2: 90.0, 1-2: 88.0, SD2->1-2: 90.0, 1-2->SD2: 90.0
+	time      | original: 0.8745651, SD: 0.6866244, SD2: 0.5312812, 1-2: 0.6896779, SD2->1-2: 0.3526331, 1-2->SD2: 0.4161338
+graphs/steinlib/B/b12.stp
+	#edges    | original: 150, SD: 94, SD2: 93, 1-2: 141, SD2->1-2: 71, 1-2->SD2: 83
+	#vertices | original: 75, SD: 75, SD2: 75, 1-2: 68, SD2->1-2: 53, 1-2->SD2: 68
+	pp time   | original: 0, SD: 0.0043402, SD2: 0.0069234, 1-2: 1.149E-4, SD2->1-2: 0.0062049, 1-2->SD2: 0.006644
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 174.0, SD: 174.0, SD2: 174.0, 1-2: 174.0, SD2->1-2: 174.0, 1-2->SD2: 174.0
+	time      | original: 1.3508181, SD: 1.2074505, SD2: 1.2220494, 1-2: 1.5598032, SD2->1-2: 0.8277447, 1-2->SD2: 1.0622538
+graphs/steinlib/B/b13.stp
+	#edges    | original: 125, SD: 124, SD2: 121, 1-2: 76, SD2->1-2: 70, 1-2->SD2: 67
+	#vertices | original: 100, SD: 100, SD2: 100, 1-2: 52, SD2->1-2: 50, 1-2->SD2: 52
+	pp time   | original: 0, SD: 0.0040296, SD2: 0.0042038, 1-2: 1.42E-4, SD2->1-2: 0.00411, 1-2->SD2: 0.0015423
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 165.0, SD: 165.0, SD2: 165.0, 1-2: 165.0, SD2->1-2: 165.0, 1-2->SD2: 165.0
+	time      | original: 1.2876623, SD: 1.2648092, SD2: 1.2428622, 1-2: 0.4615265, SD2->1-2: 0.4619566, 1-2->SD2: 0.4442218
+graphs/steinlib/B/b14.stp
+	#edges    | original: 125, SD: 125, SD2: 120, 1-2: 85, SD2->1-2: 77, 1-2->SD2: 74
+	#vertices | original: 100, SD: 100, SD2: 100, 1-2: 60, SD2->1-2: 57, 1-2->SD2: 60
+	pp time   | original: 0, SD: 0.0048578, SD2: 0.0055158, 1-2: 1.442E-4, SD2->1-2: 0.0049794, 1-2->SD2: 0.0027961
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 235.0, SD: 235.0, SD2: 237.0, 1-2: 235.0, SD2->1-2: 237.0, 1-2->SD2: 237.0
+	time      | original: 1.5511644, SD: 1.505037, SD2: 1.5202831, 1-2: 0.745393, SD2->1-2: 0.696738, 1-2->SD2: 0.6880175
+graphs/steinlib/B/b15.stp
+	#edges    | original: 125, SD: 120, SD2: 117, 1-2: 93, SD2->1-2: 85, 1-2->SD2: 83
+	#vertices | original: 100, SD: 100, SD2: 100, 1-2: 68, SD2->1-2: 68, 1-2->SD2: 68
+	pp time   | original: 0, SD: 0.0073943, SD2: 0.010992, 1-2: 1.495E-4, SD2->1-2: 0.0122328, 1-2->SD2: 0.0085957
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 318.0, SD: 318.0, SD2: 318.0, 1-2: 318.0, SD2->1-2: 318.0, 1-2->SD2: 318.0
+	time      | original: 2.3525254, SD: 2.2646798, SD2: 2.2711913, 1-2: 1.5690076, SD2->1-2: 1.4958968, 1-2->SD2: 1.5043023
+graphs/steinlib/B/b16.stp
+	#edges    | original: 200, SD: 182, SD2: 174, 1-2: 182, SD2->1-2: 152, 1-2->SD2: 151
+	#vertices | original: 100, SD: 100, SD2: 100, 1-2: 82, SD2->1-2: 78, 1-2->SD2: 82
+	pp time   | original: 0, SD: 0.0049509, SD2: 0.0054968, 1-2: 1.548E-4, SD2->1-2: 0.0050474, 1-2->SD2: 0.0033692
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 127.0, SD: 127.0, SD2: 127.0, 1-2: 127.0, SD2->1-2: 127.0, 1-2->SD2: 127.0
+	time      | original: 1.9634698, SD: 1.785035, SD2: 1.5966035, 1-2: 1.3453525, SD2->1-2: 1.2279594, 1-2->SD2: 1.1690529
+graphs/steinlib/B/b17.stp
+	#edges    | original: 200, SD: 153, SD2: 147, 1-2: 182, SD2->1-2: 120, 1-2->SD2: 126
+	#vertices | original: 100, SD: 100, SD2: 100, 1-2: 82, SD2->1-2: 73, 1-2->SD2: 82
+	pp time   | original: 0, SD: 0.0056662, SD2: 0.0055475, 1-2: 1.546E-4, SD2->1-2: 0.0052015, 1-2->SD2: 0.0036293
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 131.0, SD: 131.0, SD2: 131.0, 1-2: 131.0, SD2->1-2: 131.0, 1-2->SD2: 131.0
+	time      | original: 1.937785, SD: 1.6562766, SD2: 1.5944539, 1-2: 1.5237082, SD2->1-2: 0.9750263, 1-2->SD2: 1.150166
+graphs/steinlib/B/b18.stp
+	#edges    | original: 200, SD: 130, SD2: 124, 1-2: 188, SD2->1-2: 94, 1-2->SD2: 110
+	#vertices | original: 100, SD: 100, SD2: 100, 1-2: 88, SD2->1-2: 70, 1-2->SD2: 88
+	pp time   | original: 0, SD: 0.0081214, SD2: 0.0081713, 1-2: 1.752E-4, SD2->1-2: 0.0076471, 1-2->SD2: 0.0066963
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 218.0, SD: 218.0, SD2: 218.0, 1-2: 218.0, SD2->1-2: 218.0, 1-2->SD2: 218.0
+	time      | original: 3.0739937, SD: 2.5678597, SD2: 2.6818625, 1-2: 2.6064504, SD2->1-2: 1.8620184, 1-2->SD2: 2.4208905
+graphs/steinlib/C/c01.stp
+	#edges    | original: 625, SD: 625, SD2: 625, 1-2: 331, SD2->1-2: 331, 1-2->SD2: 326
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 206, SD2->1-2: 206, 1-2->SD2: 206
+	pp time   | original: 0, SD: 0.3078166, SD2: 0.2955619, 1-2: 0.0015024, SD2->1-2: 0.295852, 1-2->SD2: 0.0308376
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 85.0, SD: 85.0, SD2: 85.0, 1-2: 85.0, SD2->1-2: 85.0, 1-2->SD2: 85.0
+	time      | original: 26.2629588, SD: 25.9459303, SD2: 25.8538506, 1-2: 4.5655689, SD2->1-2: 4.6005602, 1-2->SD2: 4.0938589
+graphs/steinlib/C/c02.stp
+	#edges    | original: 625, SD: 625, SD2: 625, 1-2: 321, SD2->1-2: 321, 1-2->SD2: 312
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 198, SD2->1-2: 198, 1-2->SD2: 198
+	pp time   | original: 0, SD: 0.3028676, SD2: 0.2955128, 1-2: 8.891E-4, SD2->1-2: 0.2958118, 1-2->SD2: 0.0284095
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 144.0, SD: 144.0, SD2: 144.0, 1-2: 144.0, SD2->1-2: 144.0, 1-2->SD2: 144.0
+	time      | original: 25.1341729, SD: 24.9769949, SD2: 25.5144386, 1-2: 4.1359188, SD2->1-2: 3.8885665, 1-2->SD2: 3.9690017
+graphs/steinlib/C/c03.stp
+	#edges    | original: 625, SD: 623, SD2: 605, 1-2: 383, SD2->1-2: 353, 1-2->SD2: 347
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 258, SD2->1-2: 248, 1-2->SD2: 258
+	pp time   | original: 0, SD: 0.3257934, SD2: 0.3166848, 1-2: 6.797E-4, SD2->1-2: 0.3222805, 1-2->SD2: 0.0712083
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 754.0, SD: 755.0, SD2: 759.0, 1-2: 754.0, SD2->1-2: 759.0, 1-2->SD2: 754.0
+	time      | original: 66.982949, SD: 63.6694206, SD2: 63.5534901, 1-2: 27.912128, SD2->1-2: 26.2065905, 1-2->SD2: 27.8556724
+graphs/steinlib/C/c04.stp
+	#edges    | original: 625, SD: 622, SD2: 600, 1-2: 401, SD2->1-2: 370, 1-2->SD2: 351
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 276, SD2->1-2: 270, 1-2->SD2: 276
+	pp time   | original: 0, SD: 0.3620974, SD2: 0.3501222, 1-2: 6.223E-4, SD2->1-2: 0.3543835, 1-2->SD2: 0.0971833
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1080.0, SD: 1081.0, SD2: 1083.0, 1-2: 1079.0, SD2->1-2: 1084.0, 1-2->SD2: 1084.0
+	time      | original: 93.859697, SD: 97.6304217, SD2: 108.7739455, 1-2: 47.6081924, SD2->1-2: 42.7774979, 1-2->SD2: 41.9819929
+graphs/steinlib/C/c05.stp
+	#edges    | original: 625, SD: 586, SD2: 562, 1-2: 472, SD2->1-2: 396, 1-2->SD2: 393
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 347, SD2->1-2: 334, 1-2->SD2: 347
+	pp time   | original: 0, SD: 0.4549108, SD2: 0.4651406, 1-2: 6.242E-4, SD2->1-2: 0.4669262, 1-2->SD2: 0.2702678
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1579.0, SD: 1579.0, SD2: 1582.0, 1-2: 1579.0, SD2->1-2: 1582.0, 1-2->SD2: 1582.0
+	time      | original: 169.2424007, SD: 181.1247837, SD2: 176.6525984, 1-2: 132.7990427, SD2->1-2: 142.0257859, 1-2->SD2: 133.9571538
+graphs/steinlib/C/c06.stp
+	#edges    | original: 1000, SD: 998, SD2: 997, 1-2: 874, SD2->1-2: 871, 1-2->SD2: 857
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 375, SD2->1-2: 375, 1-2->SD2: 375
+	pp time   | original: 0, SD: 0.4212628, SD2: 0.414567, 1-2: 8.113E-4, SD2->1-2: 0.4453878, 1-2->SD2: 0.1911954
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 55.0, SD: 55.0, SD2: 55.0, 1-2: 55.0, SD2->1-2: 55.0, 1-2->SD2: 55.0
+	time      | original: 44.5399287, SD: 35.8752023, SD2: 37.2468863, 1-2: 22.4400684, SD2->1-2: 22.2734915, 1-2->SD2: 22.5803747
+graphs/steinlib/C/c07.stp
+	#edges    | original: 1000, SD: 997, SD2: 981, 1-2: 889, SD2->1-2: 863, 1-2->SD2: 858
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 389, SD2->1-2: 382, 1-2->SD2: 389
+	pp time   | original: 0, SD: 0.3842712, SD2: 0.4681034, 1-2: 7.181E-4, SD2->1-2: 0.3948081, 1-2->SD2: 0.1955196
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 102.0, SD: 102.0, SD2: 106.0, 1-2: 102.0, SD2->1-2: 109.0, 1-2->SD2: 108.0
+	time      | original: 41.4947382, SD: 44.345164, SD2: 43.0890446, 1-2: 27.7643634, SD2->1-2: 26.4861722, 1-2->SD2: 28.8605694
+graphs/steinlib/C/c08.stp
+	#edges    | original: 1000, SD: 902, SD2: 836, 1-2: 902, SD2->1-2: 700, 1-2->SD2: 703
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 403, SD2->1-2: 365, 1-2->SD2: 403
+	pp time   | original: 0, SD: 0.4168985, SD2: 0.4301003, 1-2: 7.944E-4, SD2->1-2: 0.4156362, 1-2->SD2: 0.2455827
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 509.0, SD: 509.0, SD2: 511.0, 1-2: 509.0, SD2->1-2: 511.0, 1-2->SD2: 512.0
+	time      | original: 86.9642177, SD: 76.730919, SD2: 79.3195409, 1-2: 58.6435464, SD2->1-2: 46.764726, 1-2->SD2: 55.3390869
+graphs/steinlib/C/c09.stp
+	#edges    | original: 1000, SD: 837, SD2: 767, 1-2: 924, SD2->1-2: 627, 1-2->SD2: 660
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 424, SD2->1-2: 360, 1-2->SD2: 424
+	pp time   | original: 0, SD: 0.4588617, SD2: 0.4506065, 1-2: 0.0012504, SD2->1-2: 0.4638517, 1-2->SD2: 0.3003301
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 707.0, SD: 708.0, SD2: 709.0, 1-2: 707.0, SD2->1-2: 709.0, 1-2->SD2: 709.0
+	time      | original: 131.3692061, SD: 120.3018934, SD2: 125.5649977, 1-2: 110.0642816, SD2->1-2: 77.4590405, 1-2->SD2: 110.1366772
+graphs/steinlib/C/c10.stp
+	#edges    | original: 1000, SD: 696, SD2: 650, 1-2: 945, SD2->1-2: 518, 1-2->SD2: 582
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 445, SD2->1-2: 368, 1-2->SD2: 445
+	pp time   | original: 0, SD: 0.5403341, SD2: 0.5902377, 1-2: 5.765E-4, SD2->1-2: 0.5913258, 1-2->SD2: 0.4595873
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1093.0, SD: 1093.0, SD2: 1093.0, 1-2: 1093.0, SD2->1-2: 1093.0, 1-2->SD2: 1093.0
+	time      | original: 205.360378, SD: 206.1904567, SD2: 215.0622975, 1-2: 189.565689, SD2->1-2: 172.7673739, 1-2->SD2: 185.2842164
+graphs/steinlib/C/c11.stp
+	#edges    | original: 2500, SD: 2164, SD2: 2041, 1-2: 2500, SD2->1-2: 2039, 1-2->SD2: 2041
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 500, SD2->1-2: 498, 1-2->SD2: 500
+	pp time   | original: 0, SD: 0.3841407, SD2: 0.3883148, 1-2: 0.001507, SD2->1-2: 0.3804805, 1-2->SD2: 0.3796614
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 32.0, SD: 32.0, SD2: 32.0, 1-2: 32.0, SD2->1-2: 32.0, 1-2->SD2: 32.0
+	time      | original: 99.6226616, SD: 76.2690479, SD2: 76.3491915, 1-2: 98.1576651, SD2->1-2: 73.8584096, 1-2->SD2: 79.1791126
+graphs/steinlib/C/c12.stp
+	#edges    | original: 2500, SD: 1798, SD2: 1719, 1-2: 2499, SD2->1-2: 1709, 1-2->SD2: 1718
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 499, SD2->1-2: 490, 1-2->SD2: 499
+	pp time   | original: 0, SD: 0.3802807, SD2: 0.3777248, 1-2: 0.0014983, SD2->1-2: 0.3767674, 1-2->SD2: 0.3772138
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 46.0, SD: 46.0, SD2: 46.0, 1-2: 46.0, SD2->1-2: 46.0, 1-2->SD2: 46.0
+	time      | original: 115.242911, SD: 72.1344717, SD2: 73.680681, 1-2: 97.4297879, SD2->1-2: 64.0782585, 1-2->SD2: 68.8925283
+graphs/steinlib/C/c13.stp
+	#edges    | original: 2500, SD: 1200, SD2: 1106, 1-2: 2499, SD2->1-2: 1050, 1-2->SD2: 1106
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 499, SD2->1-2: 444, 1-2->SD2: 499
+	pp time   | original: 0, SD: 0.4115429, SD2: 0.4131041, 1-2: 0.0013744, SD2->1-2: 0.4179529, 1-2->SD2: 0.4145185
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 258.0, SD: 258.0, SD2: 259.0, 1-2: 258.0, SD2->1-2: 259.0, 1-2->SD2: 259.0
+	time      | original: 171.9790455, SD: 93.484438, SD2: 93.1182292, 1-2: 177.7409417, SD2->1-2: 77.6126818, 1-2->SD2: 88.5883181
+graphs/steinlib/C/c14.stp
+	#edges    | original: 2500, SD: 1003, SD2: 950, 1-2: 2500, SD2->1-2: 862, 1-2->SD2: 950
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 500, SD2->1-2: 412, 1-2->SD2: 500
+	pp time   | original: 0, SD: 0.4341529, SD2: 0.4460203, 1-2: 0.0012707, SD2->1-2: 0.4412285, 1-2->SD2: 0.4508211
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 323.0, SD: 323.0, SD2: 323.0, 1-2: 323.0, SD2->1-2: 323.0, 1-2->SD2: 323.0
+	time      | original: 184.021778, SD: 94.6397972, SD2: 88.0593066, 1-2: 173.7662986, SD2->1-2: 75.5920655, 1-2->SD2: 98.9477773
+graphs/steinlib/C/c15.stp
+	#edges    | original: 2500, SD: 873, SD2: 839, 1-2: 2500, SD2->1-2: 767, 1-2->SD2: 839
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 500, SD2->1-2: 428, 1-2->SD2: 500
+	pp time   | original: 0, SD: 0.5339735, SD2: 0.5723255, 1-2: 0.0013742, SD2->1-2: 0.5844791, 1-2->SD2: 0.5856387
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 556.0, SD: 556.0, SD2: 556.0, 1-2: 556.0, SD2->1-2: 556.0, 1-2->SD2: 556.0
+	time      | original: 232.8324628, SD: 182.0703248, SD2: 184.4633422, 1-2: 231.2975974, SD2->1-2: 148.4314762, 1-2->SD2: 191.6869816
+graphs/steinlib/C/c16.stp
+	#edges    | original: 12500, SD: 4241, SD2: 4007, 1-2: 12500, SD2->1-2: 4007, 1-2->SD2: 4007
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 500, SD2->1-2: 500, 1-2->SD2: 500
+	pp time   | original: 0, SD: 0.3756274, SD2: 0.3733397, 1-2: 0.0088434, SD2->1-2: 0.3743526, 1-2->SD2: 0.377892
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 11.0, SD: 11.0, SD2: 11.0, 1-2: 11.0, SD2->1-2: 11.0, 1-2->SD2: 11.0
+	time      | original: 301.4161852, SD: 181.9159724, SD2: 124.7388385, 1-2: 301.9081892, SD2->1-2: 109.8346217, 1-2->SD2: 116.4437745
+graphs/steinlib/C/c17.stp
+	#edges    | original: 12500, SD: 3578, SD2: 3363, 1-2: 12500, SD2->1-2: 3363, 1-2->SD2: 3363
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 500, SD2->1-2: 500, 1-2->SD2: 500
+	pp time   | original: 0, SD: 0.3891715, SD2: 0.3984069, 1-2: 0.0079939, SD2->1-2: 0.3926686, 1-2->SD2: 0.3929613
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 18.0, SD: 18.0, SD2: 18.0, 1-2: 18.0, SD2->1-2: 18.0, 1-2->SD2: 18.0
+	time      | original: 305.3359331, SD: 130.9923347, SD2: 138.415807, 1-2: 305.3510178, SD2->1-2: 133.3491593, 1-2->SD2: 119.3768388
+graphs/steinlib/C/c18.stp
+	#edges    | original: 12500, SD: 2506, SD2: 2257, 1-2: 12500, SD2->1-2: 2254, 1-2->SD2: 2257
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 500, SD2->1-2: 497, 1-2->SD2: 500
+	pp time   | original: 0, SD: 0.4274495, SD2: 0.4146375, 1-2: 0.0110168, SD2->1-2: 0.4330955, 1-2->SD2: 0.4128458
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 115.0, SD: 113.0, SD2: 113.0, 1-2: 114.0, SD2->1-2: 113.0, 1-2->SD2: 113.0
+	time      | original: 301.6082742, SD: 173.49886, SD2: 139.7217398, 1-2: 301.715456, SD2->1-2: 165.3990065, 1-2->SD2: 160.8647416
+graphs/steinlib/C/c19.stp
+	#edges    | original: 12500, SD: 2215, SD2: 1896, 1-2: 12500, SD2->1-2: 1891, 1-2->SD2: 1896
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 500, SD2->1-2: 495, 1-2->SD2: 500
+	pp time   | original: 0, SD: 0.4199909, SD2: 0.434424, 1-2: 0.0097592, SD2->1-2: 0.4593723, 1-2->SD2: 0.4374613
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 146.0, SD: 146.0, SD2: 146.0, 1-2: 147.0, SD2->1-2: 146.0, 1-2->SD2: 146.0
+	time      | original: 303.0044141, SD: 159.473538, SD2: 137.3713054, 1-2: 300.013091, SD2->1-2: 166.9514114, 1-2->SD2: 138.0189081
+graphs/steinlib/C/c20.stp
+	#edges    | original: 12500, SD: 1457, SD2: 1410, 1-2: 12500, SD2->1-2: 1390, 1-2->SD2: 1410
+	#vertices | original: 500, SD: 500, SD2: 500, 1-2: 500, SD2->1-2: 481, 1-2->SD2: 500
+	pp time   | original: 0, SD: 0.5679721, SD2: 0.6214068, 1-2: 0.0085919, SD2->1-2: 0.633838, 1-2->SD2: 0.7116954
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 267.0, SD: 267.0, SD2: 267.0, 1-2: 267.0, SD2->1-2: 267.0, 1-2->SD2: 267.0
+	time      | original: 301.7222938, SD: 138.7560664, SD2: 132.1392292, 1-2: 302.2307101, SD2->1-2: 131.6776912, 1-2->SD2: 135.5531672
+graphs/steinlib/D/d01.stp
+	#edges    | original: 1250, SD: 1250, SD2: 1250, 1-2: 649, SD2->1-2: 649, 1-2->SD2: 644
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 399, SD2->1-2: 399, 1-2->SD2: 399
+	pp time   | original: 0, SD: 2.5165241, SD2: 2.5161297, 1-2: 0.001121, SD2->1-2: 2.4460517, 1-2->SD2: 0.2121891
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 106.0, SD: 106.0, SD2: 106.0, 1-2: 106.0, SD2->1-2: 106.0, 1-2->SD2: 106.0
+	time      | original: 124.3827397, SD: 126.7037182, SD2: 131.7830887, 1-2: 23.6382722, SD2->1-2: 20.3080921, 1-2->SD2: 18.6239003
+graphs/steinlib/D/d02.stp
+	#edges    | original: 1250, SD: 1250, SD2: 1250, 1-2: 661, SD2->1-2: 661, 1-2->SD2: 658
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 411, SD2->1-2: 411, 1-2->SD2: 411
+	pp time   | original: 0, SD: 2.4918302, SD2: 2.5286308, 1-2: 0.0015565, SD2->1-2: 2.4690727, 1-2->SD2: 0.2264259
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 220.0, SD: 220.0, SD2: 220.0, 1-2: 220.0, SD2->1-2: 220.0, 1-2->SD2: 220.0
+	time      | original: 168.7990318, SD: 145.8063382, SD2: 148.9165058, 1-2: 25.6459181, SD2->1-2: 21.5431424, 1-2->SD2: 23.8577411
+graphs/steinlib/D/d03.stp
+	#edges    | original: 1250, SD: 1243, SD2: 1216, 1-2: 749, SD2->1-2: 697, 1-2->SD2: 662
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 499, SD2->1-2: 481, 1-2->SD2: 499
+	pp time   | original: 0, SD: 2.6265273, SD2: 2.5415329, 1-2: 0.0014272, SD2->1-2: 2.672529, 1-2->SD2: 0.4640567
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1572.0, SD: 1572.0, SD2: 1574.0, 1-2: 1565.0, SD2->1-2: 1567.0, 1-2->SD2: 1569.0
+	time      | original: 300.0323226, SD: 300.013116, SD2: 300.0109868, 1-2: 180.071339, SD2->1-2: 168.1200513, 1-2->SD2: 171.7269872
+graphs/steinlib/D/d04.stp
+	#edges    | original: 1250, SD: 1227, SD2: 1203, 1-2: 777, SD2->1-2: 713, 1-2->SD2: 660
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 528, SD2->1-2: 510, 1-2->SD2: 528
+	pp time   | original: 0, SD: 2.603797, SD2: 2.6658676, 1-2: 0.0010712, SD2->1-2: 2.6659746, 1-2->SD2: 0.5961209
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1939.0, SD: 1937.0, SD2: 1942.0, 1-2: 1936.0, SD2->1-2: 1939.0, 1-2->SD2: 1939.0
+	time      | original: 300.0294731, SD: 300.0009613, SD2: 300.3020355, 1-2: 268.6909941, SD2->1-2: 223.7044123, 1-2->SD2: 243.3357123
+graphs/steinlib/D/d05.stp
+	#edges    | original: 1250, SD: 1179, SD2: 1156, 1-2: 955, SD2->1-2: 833, 1-2->SD2: 831
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 705, SD2->1-2: 677, 1-2->SD2: 705
+	pp time   | original: 0, SD: 3.2063964, SD2: 3.488019, 1-2: 0.001024, SD2->1-2: 3.3991778, 1-2->SD2: 1.9064742
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 3255.0, SD: 3256.0, SD2: 3256.0, 1-2: 3250.0, SD2->1-2: 3254.0, 1-2->SD2: 3250.0
+	time      | original: 300.002772, SD: 300.0059247, SD2: 300.0128097, 1-2: 300.0148356, SD2->1-2: 300.0088638, 1-2->SD2: 300.0446834
+graphs/steinlib/D/d06.stp
+	#edges    | original: 2000, SD: 1999, SD2: 1998, 1-2: 1774, SD2->1-2: 1772, 1-2->SD2: 1757
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 774, SD2->1-2: 774, 1-2->SD2: 774
+	pp time   | original: 0, SD: 3.0865171, SD2: 3.0641055, 1-2: 0.0015589, SD2->1-2: 3.0819679, 1-2->SD2: 1.5095659
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 70.0, SD: 70.0, SD2: 68.0, 1-2: 70.0, SD2->1-2: 70.0, 1-2->SD2: 67.0
+	time      | original: 179.8045079, SD: 175.2538579, SD2: 186.6085788, 1-2: 109.2177079, SD2->1-2: 102.0991175, 1-2->SD2: 107.3532157
+graphs/steinlib/D/d07.stp
+	#edges    | original: 2000, SD: 1997, SD2: 1991, 1-2: 1765, SD2->1-2: 1749, 1-2->SD2: 1728
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 766, SD2->1-2: 759, 1-2->SD2: 766
+	pp time   | original: 0, SD: 3.0568034, SD2: 3.0390756, 1-2: 0.0012784, SD2->1-2: 3.0372933, 1-2->SD2: 1.4395064
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 103.0, SD: 103.0, SD2: 105.0, 1-2: 103.0, SD2->1-2: 105.0, 1-2->SD2: 105.0
+	time      | original: 202.621595, SD: 220.5046843, SD2: 220.7895762, 1-2: 127.0891207, SD2->1-2: 122.3248165, 1-2->SD2: 142.4290434
+graphs/steinlib/D/d08.stp
+	#edges    | original: 2000, SD: 1798, SD2: 1658, 1-2: 1812, SD2->1-2: 1359, 1-2->SD2: 1403
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 812, SD2->1-2: 701, 1-2->SD2: 812
+	pp time   | original: 0, SD: 3.349106, SD2: 3.3562782, 1-2: 0.0016361, SD2->1-2: 3.3815416, 1-2->SD2: 1.9092811
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1084.0, SD: 1076.0, SD2: 1080.0, 1-2: 1084.0, SD2->1-2: 1078.0, 1-2->SD2: 1076.0
+	time      | original: 300.0205803, SD: 300.0211722, SD2: 300.0041967, 1-2: 300.0711038, SD2->1-2: 297.6988334, 1-2->SD2: 300.5312423
+graphs/steinlib/D/d09.stp
+	#edges    | original: 2000, SD: 1680, SD2: 1544, 1-2: 1835, SD2->1-2: 1250, 1-2->SD2: 1342
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 836, SD2->1-2: 706, 1-2->SD2: 836
+	pp time   | original: 0, SD: 3.429754, SD2: 3.4347442, 1-2: 0.0018345, SD2->1-2: 3.3754135, 1-2->SD2: 2.1479691
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1453.0, SD: 1456.0, SD2: 1454.0, 1-2: 1457.0, SD2->1-2: 1452.0, 1-2->SD2: 1454.0
+	time      | original: 300.3753125, SD: 300.0391505, SD2: 300.5767102, 1-2: 300.8235407, SD2->1-2: 300.0058194, 1-2->SD2: 300.0205332
+graphs/steinlib/D/d10.stp
+	#edges    | original: 2000, SD: 1371, SD2: 1306, 1-2: 1868, SD2->1-2: 1013, 1-2->SD2: 1138
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 869, SD2->1-2: 707, 1-2->SD2: 869
+	pp time   | original: 0, SD: 4.1181615, SD2: 4.4898403, 1-2: 0.0012767, SD2->1-2: 4.3330235, 1-2->SD2: 3.3629006
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 2110.0, SD: 2110.0, SD2: 2110.0, 1-2: 2110.0, SD2->1-2: 2110.0, 1-2->SD2: 2110.0
+	time      | original: 300.2000395, SD: 300.2525087, SD2: 300.199043, 1-2: 300.6903381, SD2->1-2: 300.001355, 1-2->SD2: 300.1377608
+graphs/steinlib/D/d11.stp
+	#edges    | original: 5000, SD: 4502, SD2: 4294, 1-2: 4994, SD2->1-2: 4280, 1-2->SD2: 4284
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 994, SD2->1-2: 986, 1-2->SD2: 994
+	pp time   | original: 0, SD: 3.1102379, SD2: 3.0604578, 1-2: 0.0029556, SD2->1-2: 3.0632798, 1-2->SD2: 3.1705356
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 29.0, SD: 29.0, SD2: 29.0, 1-2: 30.0, SD2->1-2: 29.0, 1-2->SD2: 30.0
+	time      | original: 301.0497474, SD: 302.5003587, SD2: 302.0534776, 1-2: 301.4444289, SD2->1-2: 301.3206976, 1-2->SD2: 301.8001177
+graphs/steinlib/D/d12.stp
+	#edges    | original: 5000, SD: 3408, SD2: 3347, 1-2: 5000, SD2->1-2: 3328, 1-2->SD2: 3347
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 1000, SD2->1-2: 981, 1-2->SD2: 1000
+	pp time   | original: 0, SD: 3.1412243, SD2: 3.0969928, 1-2: 0.0030045, SD2->1-2: 3.0776448, 1-2->SD2: 3.0696002
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 42.0, SD: 42.0, SD2: 42.0, 1-2: 42.0, SD2->1-2: 42.0, 1-2->SD2: 42.0
+	time      | original: 300.724147, SD: 301.8458164, SD2: 300.0531867, 1-2: 303.150258, SD2->1-2: 287.9756689, 1-2->SD2: 302.9259421
+graphs/steinlib/D/d13.stp
+	#edges    | original: 5000, SD: 2339, SD2: 2161, 1-2: 4998, SD2->1-2: 2037, 1-2->SD2: 2159
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 998, SD2->1-2: 876, 1-2->SD2: 998
+	pp time   | original: 0, SD: 3.220144, SD2: 3.2334359, 1-2: 0.002966, SD2->1-2: 3.2367332, 1-2->SD2: 3.2262858
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 501.0, SD: 500.0, SD2: 501.0, 1-2: 501.0, SD2->1-2: 500.0, 1-2->SD2: 501.0
+	time      | original: 305.8519617, SD: 300.5711923, SD2: 301.1761929, 1-2: 300.1665575, SD2->1-2: 300.0101856, 1-2->SD2: 300.0306143
+graphs/steinlib/D/d14.stp
+	#edges    | original: 5000, SD: 2094, SD2: 1957, 1-2: 4999, SD2->1-2: 1807, 1-2->SD2: 1956
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 999, SD2->1-2: 850, 1-2->SD2: 999
+	pp time   | original: 0, SD: 3.4692662, SD2: 3.5611301, 1-2: 0.0031468, SD2->1-2: 3.654473, 1-2->SD2: 3.5742369
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 668.0, SD: 668.0, SD2: 669.0, 1-2: 668.0, SD2->1-2: 669.0, 1-2->SD2: 669.0
+	time      | original: 300.0921825, SD: 300.4238537, SD2: 300.0527321, 1-2: 300.0382322, SD2->1-2: 300.1050758, 1-2->SD2: 300.0147945
+graphs/steinlib/D/d15.stp
+	#edges    | original: 5000, SD: 1685, SD2: 1581, 1-2: 5000, SD2->1-2: 1410, 1-2->SD2: 1581
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 1000, SD2->1-2: 829, 1-2->SD2: 1000
+	pp time   | original: 0, SD: 4.0312241, SD2: 4.2981173, 1-2: 0.0031592, SD2->1-2: 4.2760444, 1-2->SD2: 4.438129
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1116.0, SD: 1116.0, SD2: 1116.0, 1-2: 1116.0, SD2->1-2: 1116.0, 1-2->SD2: 1116.0
+	time      | original: 300.0025873, SD: 300.0147998, SD2: 300.0051988, 1-2: 300.5514976, SD2->1-2: 300.5888477, 1-2->SD2: 300.2183652
+graphs/steinlib/D/d16.stp
+	#edges    | original: 25000, SD: 9724, SD2: 9170, 1-2: 25000, SD2->1-2: 9170, 1-2->SD2: 9170
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 1000, SD2->1-2: 1000, 1-2->SD2: 1000
+	pp time   | original: 0, SD: 2.9438138, SD2: 2.9972612, 1-2: 0.021094, SD2->1-2: 2.9726038, 1-2->SD2: 2.9375521
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 15.0, SD: 13.0, SD2: 13.0, 1-2: 13.0, SD2->1-2: 13.0, 1-2->SD2: 13.0
+	time      | original: 312.1768721, SD: 302.1373226, SD2: 301.6462536, 1-2: 317.0166289, SD2->1-2: 306.8924735, 1-2->SD2: 310.5690416
+graphs/steinlib/D/d17.stp
+	#edges    | original: 25000, SD: 9177, SD2: 8675, 1-2: 25000, SD2->1-2: 8675, 1-2->SD2: 8675
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 1000, SD2->1-2: 1000, 1-2->SD2: 1000
+	pp time   | original: 0, SD: 4.0150939, SD2: 4.192166, 1-2: 0.0576503, SD2->1-2: 4.117837, 1-2->SD2: 3.9872614
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 23.0, SD: 23.0, SD2: 23.0, 1-2: 23.0, SD2->1-2: 23.0, 1-2->SD2: 23.0
+	time      | original: 312.8877772, SD: 306.4291896, SD2: 303.0074773, 1-2: 308.959587, SD2->1-2: 301.3763557, 1-2->SD2: 307.8072035
+graphs/steinlib/D/d18.stp
+	#edges    | original: 25000, SD: 5039, SD2: 4364, 1-2: 25000, SD2->1-2: 4359, 1-2->SD2: 4364
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 1000, SD2->1-2: 995, 1-2->SD2: 1000
+	pp time   | original: 0, SD: 3.6761039, SD2: 3.7410722, 1-2: 0.0219025, SD2->1-2: 3.6514579, 1-2->SD2: 3.9540592
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 229.0, SD: 228.0, SD2: 230.0, 1-2: 229.0, SD2->1-2: 227.0, 1-2->SD2: 228.0
+	time      | original: 332.6741249, SD: 301.0531206, SD2: 300.5532557, 1-2: 318.8488631, SD2->1-2: 302.04058, 1-2->SD2: 300.0245438
+graphs/steinlib/D/d19.stp
+	#edges    | original: 25000, SD: 4852, SD2: 4573, 1-2: 25000, SD2->1-2: 4570, 1-2->SD2: 4573
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 1000, SD2->1-2: 997, 1-2->SD2: 1000
+	pp time   | original: 0, SD: 3.0835937, SD2: 3.1486164, 1-2: 0.0151233, SD2->1-2: 3.1892444, 1-2->SD2: 3.1953322
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 313.0, SD: 312.0, SD2: 313.0, 1-2: 312.0, SD2->1-2: 313.0, 1-2->SD2: 311.0
+	time      | original: 317.2785762, SD: 300.0240228, SD2: 302.4939514, 1-2: 316.3940423, SD2->1-2: 300.0270953, 1-2->SD2: 300.9565493
+graphs/steinlib/D/d20.stp
+	#edges    | original: 25000, SD: 3023, SD2: 2926, 1-2: 25000, SD2->1-2: 2897, 1-2->SD2: 2926
+	#vertices | original: 1000, SD: 1000, SD2: 1000, 1-2: 1000, SD2->1-2: 972, 1-2->SD2: 1000
+	pp time   | original: 0, SD: 3.8852039, SD2: 4.1394297, 1-2: 0.0201507, SD2->1-2: 4.2257042, 1-2->SD2: 4.2098951
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 537.0, SD: 537.0, SD2: 537.0, 1-2: 537.0, SD2->1-2: 537.0, 1-2->SD2: 537.0
+	time      | original: 306.7469874, SD: 300.0057347, SD2: 300.0011561, 1-2: 300.046147, SD2->1-2: 300.0249734, 1-2->SD2: 300.0038759
+graphs/steinlib/E/e01.stp
+	#edges    | original: 3125, SD: 3125, SD2: 3125, 1-2: 1587, SD2->1-2: 1587, 1-2->SD2: 1584
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 962, SD2->1-2: 962, 1-2->SD2: 962
+	pp time   | original: 0, SD: 35.7279016, SD2: 35.9105369, 1-2: 0.003822, SD2->1-2: 35.8095091, 1-2->SD2: 2.8201759
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 115.0, SD: 111.0, SD2: 111.0, 1-2: 111.0, SD2->1-2: 111.0, 1-2->SD2: 111.0
+	time      | original: 309.7380741, SD: 332.2314093, SD2: 331.8598935, 1-2: 125.6513004, SD2->1-2: 127.4580816, 1-2->SD2: 132.296569
+graphs/steinlib/E/e02.stp
+	#edges    | original: 3125, SD: 3125, SD2: 3125, 1-2: 1628, SD2->1-2: 1628, 1-2->SD2: 1619
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 1004, SD2->1-2: 1004, 1-2->SD2: 1004
+	pp time   | original: 0, SD: 35.5382114, SD2: 35.6996307, 1-2: 0.003199, SD2->1-2: 35.7403664, 1-2->SD2: 3.1645051
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 227.0, SD: 227.0, SD2: 227.0, 1-2: 214.0, SD2->1-2: 216.0, 1-2->SD2: 214.0
+	time      | original: 311.9262948, SD: 319.0285133, SD2: 326.4646761, 1-2: 234.6887359, SD2->1-2: 208.5669903, 1-2->SD2: 194.5765083
+graphs/steinlib/E/e03.stp
+	#edges    | original: 3125, SD: 3121, SD2: 3067, 1-2: 1868, SD2->1-2: 1794, 1-2->SD2: 1664
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 1243, SD2->1-2: 1227, 1-2->SD2: 1243
+	pp time   | original: 0, SD: 36.4898267, SD2: 36.8911411, 1-2: 0.0032604, SD2->1-2: 36.5148084, 1-2->SD2: 6.2087471
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 4057.0, SD: 4056.0, SD2: 4068.0, 1-2: 4041.0, SD2->1-2: 4049.0, 1-2->SD2: 4053.0
+	time      | original: 300.5603935, SD: 300.0826231, SD2: 300.0183197, 1-2: 300.4091665, SD2->1-2: 300.015829, 1-2->SD2: 300.1139399
+graphs/steinlib/E/e04.stp
+	#edges    | original: 3125, SD: 3098, SD2: 3032, 1-2: 1961, SD2->1-2: 1835, 1-2->SD2: 1720
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 1336, SD2->1-2: 1303, 1-2->SD2: 1336
+	pp time   | original: 0, SD: 38.4955846, SD2: 38.8987927, 1-2: 0.0026198, SD2->1-2: 39.1376238, 1-2->SD2: 8.5217376
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 5124.0, SD: 5124.0, SD2: 5133.0, 1-2: 5116.0, SD2->1-2: 5119.0, 1-2->SD2: 5119.0
+	time      | original: 301.7737798, SD: 300.1085252, SD2: 301.163337, 1-2: 301.0766566, SD2->1-2: 300.2213333, 1-2->SD2: 300.1837493
+graphs/steinlib/E/e05.stp
+	#edges    | original: 3125, SD: 2956, SD2: 2869, 1-2: 2366, SD2->1-2: 2032, 1-2->SD2: 2010
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 1741, SD2->1-2: 1663, 1-2->SD2: 1741
+	pp time   | original: 0, SD: 49.2294513, SD2: 52.079906, 1-2: 0.0025901, SD2->1-2: 51.6262326, 1-2->SD2: 27.6239534
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 8137.0, SD: 8138.0, SD2: 8145.0, 1-2: 8132.0, SD2->1-2: 8139.0, 1-2->SD2: 8139.0
+	time      | original: 300.1313931, SD: 301.0574919, SD2: 301.6427718, 1-2: 300.1146869, SD2->1-2: 300.0189233, 1-2->SD2: 300.0170702
+graphs/steinlib/E/e06.stp
+	#edges    | original: 5000, SD: 4999, SD2: 4999, 1-2: 4379, SD2->1-2: 4378, 1-2->SD2: 4371
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 1879, SD2->1-2: 1879, 1-2->SD2: 1879
+	pp time   | original: 0, SD: 46.7446388, SD2: 47.3208723, 1-2: 0.0044917, SD2->1-2: 46.5134897, 1-2->SD2: 20.5682813
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 76.0, SD: 76.0, SD2: 76.0, 1-2: 76.0, SD2->1-2: 76.0, 1-2->SD2: 76.0
+	time      | original: 317.9761576, SD: 314.9166228, SD2: 305.9830217, 1-2: 315.9403309, SD2->1-2: 306.8757997, 1-2->SD2: 300.1471481
+graphs/steinlib/E/e07.stp
+	#edges    | original: 5000, SD: 4999, SD2: 4998, 1-2: 4408, SD2->1-2: 4405, 1-2->SD2: 4376
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 1909, SD2->1-2: 1908, 1-2->SD2: 1909
+	pp time   | original: 0, SD: 46.0305836, SD2: 46.1971944, 1-2: 0.0043471, SD2->1-2: 46.0114149, 1-2->SD2: 21.6929878
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 149.0, SD: 149.0, SD2: 149.0, 1-2: 149.0, SD2->1-2: 147.0, 1-2->SD2: 149.0
+	time      | original: 305.9059087, SD: 305.646885, SD2: 320.6839672, 1-2: 305.4738074, SD2->1-2: 302.469034, 1-2->SD2: 305.2570485
+graphs/steinlib/E/e08.stp
+	#edges    | original: 5000, SD: 4587, SD2: 4235, 1-2: 4505, SD2->1-2: 3564, 1-2->SD2: 3574
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2007, SD2->1-2: 1831, 1-2->SD2: 2007
+	pp time   | original: 0, SD: 47.2333572, SD2: 47.0504844, 1-2: 0.0046572, SD2->1-2: 47.0512269, 1-2->SD2: 25.7824272
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 2660.0, SD: 2660.0, SD2: 2666.0, 1-2: 2659.0, SD2->1-2: 2658.0, 1-2->SD2: 2664.0
+	time      | original: 300.0175123, SD: 300.1857984, SD2: 308.9153928, 1-2: 300.5198165, SD2->1-2: 300.0195214, 1-2->SD2: 313.5887051
+graphs/steinlib/E/e09.stp
+	#edges    | original: 5000, SD: 4201, SD2: 3954, 1-2: 4572, SD2->1-2: 3255, 1-2->SD2: 3381
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2072, SD2->1-2: 1801, 1-2->SD2: 2072
+	pp time   | original: 0, SD: 48.4509647, SD2: 49.0585727, 1-2: 0.0034804, SD2->1-2: 49.345859, 1-2->SD2: 30.0909385
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 3629.0, SD: 3625.0, SD2: 3636.0, 1-2: 3619.0, SD2->1-2: 3629.0, 1-2->SD2: 3625.0
+	time      | original: 300.0119326, SD: 300.0015637, SD2: 300.0037039, 1-2: 300.2749527, SD2->1-2: 300.4462364, 1-2->SD2: 300.4530863
+graphs/steinlib/E/e10.stp
+	#edges    | original: 5000, SD: 3522, SD2: 3372, 1-2: 4690, SD2->1-2: 2724, 1-2->SD2: 2968
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2190, SD2->1-2: 1852, 1-2->SD2: 2190
+	pp time   | original: 0, SD: 58.7183815, SD2: 61.3652975, 1-2: 0.0039527, SD2->1-2: 61.9057441, 1-2->SD2: 46.1615058
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 5606.0, SD: 5606.0, SD2: 5608.0, 1-2: 5605.0, SD2->1-2: 5604.0, 1-2->SD2: 5609.0
+	time      | original: 300.2424059, SD: 300.4573779, SD2: 300.3231738, 1-2: 300.8410226, SD2->1-2: 315.1816258, 1-2->SD2: 300.101917
+graphs/steinlib/E/e11.stp
+	#edges    | original: 12500, SD: 12085, SD2: 11858, 1-2: 12498, SD2->1-2: 11856, 1-2->SD2: 11856
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2498, SD2->1-2: 2498, 1-2->SD2: 2498
+	pp time   | original: 0, SD: 45.3017276, SD2: 45.2598146, 1-2: 0.0087639, SD2->1-2: 45.3921167, 1-2->SD2: 45.5195144
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 37.0, SD: 34.0, SD2: 37.0, 1-2: 37.0, SD2->1-2: 34.0, 1-2->SD2: 37.0
+	time      | original: 324.7229869, SD: 339.1807955, SD2: 339.1219167, 1-2: 309.4820519, SD2->1-2: 307.587008, 1-2->SD2: 339.0036736
+graphs/steinlib/E/e12.stp
+	#edges    | original: 12500, SD: 11283, SD2: 11122, 1-2: 12500, SD2->1-2: 11118, 1-2->SD2: 11122
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2500, SD2->1-2: 2496, 1-2->SD2: 2500
+	pp time   | original: 0, SD: 45.15668, SD2: 45.04308, 1-2: 0.007809, SD2->1-2: 45.1583658, 1-2->SD2: 45.049445
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 68.0, SD: 68.0, SD2: 68.0, 1-2: 68.0, SD2->1-2: 68.0, 1-2->SD2: 68.0
+	time      | original: 304.4342814, SD: 344.6671293, SD2: 320.8845725, 1-2: 308.9304813, SD2->1-2: 322.2463499, 1-2->SD2: 325.7420258
+graphs/steinlib/E/e13.stp
+	#edges    | original: 12500, SD: 5901, SD2: 5457, 1-2: 12496, SD2->1-2: 5167, 1-2->SD2: 5451
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2496, SD2->1-2: 2210, 1-2->SD2: 2496
+	pp time   | original: 0, SD: 46.584988, SD2: 46.5170397, 1-2: 0.0106749, SD2->1-2: 48.7190431, 1-2->SD2: 47.0501962
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1296.0, SD: 1294.0, SD2: 1293.0, 1-2: 1295.0, SD2->1-2: 1289.0, 1-2->SD2: 1297.0
+	time      | original: 323.1352976, SD: 300.0484477, SD2: 337.2811664, 1-2: 300.2677881, SD2->1-2: 300.0039869, 1-2->SD2: 300.0136568
+graphs/steinlib/E/e14.stp
+	#edges    | original: 12500, SD: 5363, SD2: 4977, 1-2: 12499, SD2->1-2: 4588, 1-2->SD2: 4976
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2499, SD2->1-2: 2112, 1-2->SD2: 2499
+	pp time   | original: 0, SD: 47.5843408, SD2: 48.3550094, 1-2: 0.0075574, SD2->1-2: 47.844927, 1-2->SD2: 48.4598768
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1740.0, SD: 1739.0, SD2: 1742.0, 1-2: 1739.0, SD2->1-2: 1742.0, 1-2->SD2: 1742.0
+	time      | original: 314.5860206, SD: 300.0153542, SD2: 300.0095535, 1-2: 300.0044291, SD2->1-2: 300.0038696, 1-2->SD2: 309.5353005
+graphs/steinlib/E/e15.stp
+	#edges    | original: 12500, SD: 4245, SD2: 4018, 1-2: 12498, SD2->1-2: 3565, 1-2->SD2: 4016
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2498, SD2->1-2: 2048, 1-2->SD2: 2498
+	pp time   | original: 0, SD: 57.9390158, SD2: 62.0682364, 1-2: 0.0101643, SD2->1-2: 60.5008036, 1-2->SD2: 61.3634281
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 2793.0, SD: 2790.0, SD2: 2791.0, 1-2: 2790.0, SD2->1-2: 2790.0, 1-2->SD2: 2791.0
+	time      | original: 311.1572338, SD: 301.3799143, SD2: 300.5463892, 1-2: 317.4880756, SD2->1-2: 301.5170912, 1-2->SD2: 300.7895021
+graphs/steinlib/E/e16.stp
+	#edges    | original: 62500, SD: 27580, SD2: 25973, 1-2: 62500, SD2->1-2: 25973, 1-2->SD2: 25973
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2500, SD2->1-2: 2500, 1-2->SD2: 2500
+	pp time   | original: 0, SD: 40.8230123, SD2: 40.9192042, 1-2: 0.0686009, SD2->1-2: 40.8970105, 1-2->SD2: 40.856559
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 16.0, SD: 15.0, SD2: 15.0, 1-2: 15.0, SD2->1-2: 15.0, 1-2->SD2: 15.0
+	time      | original: 311.9114017, SD: 335.6807503, SD2: 329.0463675, 1-2: 314.9440756, SD2->1-2: 364.7462917, 1-2->SD2: 381.2850024
+graphs/steinlib/E/e17.stp
+	#edges    | original: 62500, SD: 23325, SD2: 22370, 1-2: 62500, SD2->1-2: 22370, 1-2->SD2: 22370
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2500, SD2->1-2: 2500, 1-2->SD2: 2500
+	pp time   | original: 0, SD: 43.30409, SD2: 43.5343464, 1-2: 0.0714806, SD2->1-2: 43.509794, 1-2->SD2: 43.4637571
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 26.0, SD: 26.0, SD2: 26.0, 1-2: 26.0, SD2->1-2: 26.0, 1-2->SD2: 26.0
+	time      | original: 331.3160589, SD: 309.1785386, SD2: 306.7405475, 1-2: 301.4034405, SD2->1-2: 342.3326283, 1-2->SD2: 330.1022199
+graphs/steinlib/E/e18.stp
+	#edges    | original: 62500, SD: 12738, SD2: 12226, 1-2: 62500, SD2->1-2: 12223, 1-2->SD2: 12226
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2500, SD2->1-2: 2497, 1-2->SD2: 2500
+	pp time   | original: 0, SD: 43.6223602, SD2: 43.9152019, 1-2: 0.0676469, SD2->1-2: 43.7812478, 1-2->SD2: 43.6489513
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 601.0, SD: 580.0, SD2: 585.0, 1-2: 601.0, SD2->1-2: 582.0, 1-2->SD2: 583.0
+	time      | original: 469.794876, SD: 310.0544442, SD2: 312.3048142, 1-2: 449.6474061, SD2->1-2: 319.2793297, 1-2->SD2: 306.6093135
+graphs/steinlib/E/e19.stp
+	#edges    | original: 62500, SD: 11152, SD2: 9403, 1-2: 62500, SD2->1-2: 9366, 1-2->SD2: 9403
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2500, SD2->1-2: 2463, 1-2->SD2: 2500
+	pp time   | original: 0, SD: 43.3257734, SD2: 44.1162584, 1-2: 0.0636171, SD2->1-2: 43.8898274, 1-2->SD2: 43.7738627
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 780.0, SD: 768.0, SD2: 775.0, 1-2: 782.0, SD2->1-2: 771.0, 1-2->SD2: 774.0
+	time      | original: 409.5077738, SD: 306.201375, SD2: 322.9565992, 1-2: 383.355287, SD2->1-2: 300.0154486, 1-2->SD2: 300.012829
+graphs/steinlib/E/e20.stp
+	#edges    | original: 62500, SD: 7544, SD2: 7038, 1-2: 62500, SD2->1-2: 6976, 1-2->SD2: 7038
+	#vertices | original: 2500, SD: 2500, SD2: 2500, 1-2: 2500, SD2->1-2: 2438, 1-2->SD2: 2500
+	pp time   | original: 0, SD: 52.7915553, SD2: 55.1732332, 1-2: 0.0601019, SD2->1-2: 55.3844628, 1-2->SD2: 55.6073481
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1350.0, SD: 1346.0, SD2: 1350.0, 1-2: 1347.0, SD2->1-2: 1349.0, 1-2->SD2: 1351.0
+	time      | original: 310.4107173, SD: 305.312346, SD2: 300.1086054, 1-2: 312.3612753, SD2->1-2: 300.0356934, 1-2->SD2: 303.9686737
+graphs/steinlib/LIN/lin01.stp
+	#edges    | original: 80, SD: 80, SD2: 79, 1-2: 76, SD2->1-2: 74, 1-2->SD2: 73
+	#vertices | original: 53, SD: 53, SD2: 53, 1-2: 49, SD2->1-2: 48, 1-2->SD2: 49
+	pp time   | original: 0, SD: 0.00118, SD2: 9.693E-4, 1-2: 6.91E-5, SD2->1-2: 8.728E-4, 1-2->SD2: 7.089E-4
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 503.0, SD: 503.0, SD2: 503.0, 1-2: 503.0, SD2->1-2: 503.0, 1-2->SD2: 503.0
+	time      | original: 0.1987952, SD: 0.2050786, SD2: 0.1811898, 1-2: 0.1907921, SD2->1-2: 0.1686407, 1-2->SD2: 0.1358746
+graphs/steinlib/LIN/lin02.stp
+	#edges    | original: 82, SD: 80, SD2: 80, 1-2: 78, SD2->1-2: 75, 1-2->SD2: 73
+	#vertices | original: 55, SD: 55, SD2: 55, 1-2: 51, SD2->1-2: 50, 1-2->SD2: 51
+	pp time   | original: 0, SD: 0.0010807, SD2: 0.0010499, 1-2: 5.02E-5, SD2->1-2: 9.84E-4, 1-2->SD2: 8.417E-4
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 557.0, SD: 557.0, SD2: 557.0, 1-2: 557.0, SD2->1-2: 557.0, 1-2->SD2: 557.0
+	time      | original: 0.3079508, SD: 0.2699601, SD2: 0.2559073, 1-2: 0.2938794, SD2->1-2: 0.2540255, 1-2->SD2: 0.2343088
+graphs/steinlib/LIN/lin03.stp
+	#edges    | original: 84, SD: 82, SD2: 82, 1-2: 80, SD2->1-2: 74, 1-2->SD2: 76
+	#vertices | original: 57, SD: 57, SD2: 57, 1-2: 53, SD2->1-2: 49, 1-2->SD2: 53
+	pp time   | original: 0, SD: 0.0012742, SD2: 0.0012096, 1-2: 5.25E-5, SD2->1-2: 0.0012231, 1-2->SD2: 9.773E-4
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 926.0, SD: 926.0, SD2: 926.0, 1-2: 926.0, SD2->1-2: 926.0, 1-2->SD2: 926.0
+	time      | original: 0.4493523, SD: 0.2698832, SD2: 0.3245958, 1-2: 0.2655898, SD2->1-2: 0.2902016, 1-2->SD2: 0.2430275
+graphs/steinlib/LIN/lin04.stp
+	#edges    | original: 266, SD: 262, SD2: 260, 1-2: 262, SD2->1-2: 252, 1-2->SD2: 256
+	#vertices | original: 157, SD: 157, SD2: 157, 1-2: 153, SD2->1-2: 149, 1-2->SD2: 153
+	pp time   | original: 0, SD: 0.0144247, SD2: 0.0144167, 1-2: 1.367E-4, SD2->1-2: 0.0145657, 1-2->SD2: 0.0136612
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1239.0, SD: 1239.0, SD2: 1239.0, 1-2: 1239.0, SD2->1-2: 1239.0, 1-2->SD2: 1239.0
+	time      | original: 2.4289378, SD: 2.7332147, SD2: 2.8120241, 1-2: 2.8024044, SD2->1-2: 2.3447186, 1-2->SD2: 2.5740876
+graphs/steinlib/LIN/lin05.stp
+	#edges    | original: 269, SD: 268, SD2: 267, 1-2: 265, SD2->1-2: 259, 1-2->SD2: 261
+	#vertices | original: 160, SD: 160, SD2: 160, 1-2: 156, SD2->1-2: 153, 1-2->SD2: 156
+	pp time   | original: 0, SD: 0.0165477, SD2: 0.0157253, 1-2: 1.285E-4, SD2->1-2: 0.0159139, 1-2->SD2: 0.0145218
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1703.0, SD: 1703.0, SD2: 1703.0, 1-2: 1703.0, SD2->1-2: 1703.0, 1-2->SD2: 1709.0
+	time      | original: 4.0540461, SD: 3.7800361, SD2: 3.8284867, 1-2: 4.1172698, SD2->1-2: 3.2750001, 1-2->SD2: 2.905232
+graphs/steinlib/LIN/lin06.stp
+	#edges    | original: 274, SD: 270, SD2: 260, 1-2: 270, SD2->1-2: 243, 1-2->SD2: 255
+	#vertices | original: 165, SD: 165, SD2: 165, 1-2: 161, SD2->1-2: 148, 1-2->SD2: 161
+	pp time   | original: 0, SD: 0.0170645, SD2: 0.0171502, 1-2: 1.214E-4, SD2->1-2: 0.0171886, 1-2->SD2: 0.0164901
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1348.0, SD: 1348.0, SD2: 1369.0, 1-2: 1348.0, SD2->1-2: 1369.0, 1-2->SD2: 1369.0
+	time      | original: 4.8826653, SD: 4.8621259, SD2: 3.9515556, 1-2: 5.052059, SD2->1-2: 3.9209972, 1-2->SD2: 4.4201373
+graphs/steinlib/LIN/lin07.stp
+	#edges    | original: 526, SD: 525, SD2: 525, 1-2: 522, SD2->1-2: 520, 1-2->SD2: 521
+	#vertices | original: 307, SD: 307, SD2: 307, 1-2: 303, SD2->1-2: 302, 1-2->SD2: 303
+	pp time   | original: 0, SD: 0.1299875, SD2: 0.1805408, 1-2: 2.913E-4, SD2->1-2: 0.1430851, 1-2->SD2: 0.1113075
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 1885.0, SD: 1885.0, SD2: 1885.0, 1-2: 1885.0, SD2->1-2: 1885.0, 1-2->SD2: 1885.0
+	time      | original: 13.1504753, SD: 13.8289349, SD2: 13.7224696, 1-2: 11.6843816, SD2->1-2: 13.453536, 1-2->SD2: 14.6829578
+graphs/steinlib/LIN/lin08.stp
+	#edges    | original: 530, SD: 527, SD2: 527, 1-2: 526, SD2->1-2: 521, 1-2->SD2: 523
+	#vertices | original: 311, SD: 311, SD2: 311, 1-2: 307, SD2->1-2: 305, 1-2->SD2: 307
+	pp time   | original: 0, SD: 0.1097651, SD2: 0.1023903, 1-2: 3.358E-4, SD2->1-2: 0.0993593, 1-2->SD2: 0.0966061
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 2248.0, SD: 2248.0, SD2: 2248.0, 1-2: 2248.0, SD2->1-2: 2248.0, 1-2->SD2: 2248.0
+	time      | original: 15.5345996, SD: 14.4896148, SD2: 15.3469096, 1-2: 14.4672222, SD2->1-2: 16.2648169, 1-2->SD2: 15.5542415
+graphs/steinlib/LIN/lin09.stp
+	#edges    | original: 532, SD: 531, SD2: 530, 1-2: 528, SD2->1-2: 523, 1-2->SD2: 525
+	#vertices | original: 313, SD: 313, SD2: 313, 1-2: 309, SD2->1-2: 306, 1-2->SD2: 309
+	pp time   | original: 0, SD: 0.1035692, SD2: 0.1055121, 1-2: 2.54E-4, SD2->1-2: 0.1045892, 1-2->SD2: 0.1387955
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 2785.0, SD: 2785.0, SD2: 2785.0, 1-2: 2785.0, SD2->1-2: 2772.0, 1-2->SD2: 2782.0
+	time      | original: 14.9293533, SD: 15.0203121, SD2: 15.2281774, 1-2: 14.661087, SD2->1-2: 13.4322456, 1-2->SD2: 15.6984875
+graphs/steinlib/LIN/lin10.stp
+	#edges    | original: 540, SD: 534, SD2: 531, 1-2: 536, SD2->1-2: 520, 1-2->SD2: 527
+	#vertices | original: 321, SD: 321, SD2: 321, 1-2: 317, SD2->1-2: 310, 1-2->SD2: 317
+	pp time   | original: 0, SD: 0.1218796, SD2: 0.1114815, 1-2: 3.442E-4, SD2->1-2: 0.1100562, 1-2->SD2: 0.1059243
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 4132.0, SD: 4132.0, SD2: 4169.0, 1-2: 4184.0, SD2->1-2: 4192.0, 1-2->SD2: 4192.0
+	time      | original: 34.9228511, SD: 29.9820285, SD2: 25.8275789, 1-2: 27.7340669, SD2->1-2: 30.7181752, 1-2->SD2: 26.6109496
+graphs/steinlib/LIN/lin11.stp
+	#edges    | original: 1460, SD: 1456, SD2: 1456, 1-2: 1456, SD2->1-2: 1451, 1-2->SD2: 1452
+	#vertices | original: 816, SD: 816, SD2: 816, 1-2: 812, SD2->1-2: 811, 1-2->SD2: 812
+	pp time   | original: 0, SD: 2.9111561, SD2: 2.4841919, 1-2: 0.0159696, SD2->1-2: 2.4905011, 1-2->SD2: 2.3682547
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 4287.0, SD: 4287.0, SD2: 4287.0, 1-2: 4287.0, SD2->1-2: 4289.0, 1-2->SD2: 4295.0
+	time      | original: 186.697686, SD: 186.6361947, SD2: 175.4735734, 1-2: 184.7861597, SD2->1-2: 161.4201363, 1-2->SD2: 179.2690193
+graphs/steinlib/LIN/lin12.stp
+	#edges    | original: 1462, SD: 1456, SD2: 1455, 1-2: 1458, SD2->1-2: 1449, 1-2->SD2: 1450
+	#vertices | original: 818, SD: 818, SD2: 818, 1-2: 814, SD2->1-2: 812, 1-2->SD2: 814
+	pp time   | original: 0, SD: 2.1133287, SD2: 2.0699918, 1-2: 0.0012143, SD2->1-2: 2.097646, 1-2->SD2: 2.0514779
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 5310.0, SD: 5310.0, SD2: 5301.0, 1-2: 5310.0, SD2->1-2: 5310.0, 1-2->SD2: 5263.0
+	time      | original: 151.4956471, SD: 156.909144, SD2: 157.403136, 1-2: 156.1883858, SD2->1-2: 147.6202206, 1-2->SD2: 149.4801556
+graphs/steinlib/LIN/lin13.stp
+	#edges    | original: 1466, SD: 1463, SD2: 1460, 1-2: 1462, SD2->1-2: 1453, 1-2->SD2: 1456
+	#vertices | original: 822, SD: 822, SD2: 822, 1-2: 818, SD2->1-2: 815, 1-2->SD2: 818
+	pp time   | original: 0, SD: 2.1554763, SD2: 2.1673184, 1-2: 0.0013424, SD2->1-2: 2.1071005, 1-2->SD2: 2.0823202
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 4613.0, SD: 4609.0, SD2: 4609.0, 1-2: 4634.0, SD2->1-2: 4620.0, 1-2->SD2: 4620.0
+	time      | original: 194.9667101, SD: 221.4730879, SD2: 263.2665572, 1-2: 204.863616, SD2->1-2: 172.8283256, 1-2->SD2: 158.246932
+graphs/steinlib/LIN/lin14.stp
+	#edges    | original: 1472, SD: 1470, SD2: 1467, 1-2: 1468, SD2->1-2: 1458, 1-2->SD2: 1463
+	#vertices | original: 828, SD: 828, SD2: 828, 1-2: 824, SD2->1-2: 819, 1-2->SD2: 824
+	pp time   | original: 0, SD: 2.1682392, SD2: 2.1763265, 1-2: 0.0010104, SD2->1-2: 2.1968708, 1-2->SD2: 2.1319947
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 5860.0, SD: 5824.0, SD2: 5830.0, 1-2: 5921.0, SD2->1-2: 5846.0, 1-2->SD2: 5824.0
+	time      | original: 300.3573902, SD: 251.7132151, SD2: 243.9674276, 1-2: 210.9612893, SD2->1-2: 280.2312401, 1-2->SD2: 211.1076604
+graphs/steinlib/LIN/lin15.stp
+	#edges    | original: 1484, SD: 1473, SD2: 1467, 1-2: 1480, SD2->1-2: 1447, 1-2->SD2: 1462
+	#vertices | original: 840, SD: 840, SD2: 840, 1-2: 836, SD2->1-2: 821, 1-2->SD2: 836
+	pp time   | original: 0, SD: 2.3341806, SD2: 2.3409912, 1-2: 9.211E-4, SD2->1-2: 2.2735278, 1-2->SD2: 2.262523
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 7165.0, SD: 7165.0, SD2: 7145.0, 1-2: 7165.0, SD2->1-2: 7153.0, 1-2->SD2: 7145.0
+	time      | original: 296.5735784, SD: 240.158581, SD2: 233.8380084, 1-2: 271.2761105, SD2->1-2: 191.1312531, 1-2->SD2: 221.915773
+graphs/steinlib/LIN/lin16.stp
+	#edges    | original: 3633, SD: 3633, SD2: 3633, 1-2: 3629, SD2->1-2: 3629, 1-2->SD2: 3629
+	#vertices | original: 1981, SD: 1981, SD2: 1981, 1-2: 1977, SD2->1-2: 1977, 1-2->SD2: 1977
+	pp time   | original: 0, SD: 28.977721901, SD2: 29.4603791, 1-2: 0.003223599, SD2->1-2: 29.6199715, 1-2->SD2: 28.833928499
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 6731.0, SD: 6709.0, SD2: 6731.0, 1-2: 6731.0, SD2->1-2: 6731.0, 1-2->SD2: 6731.0
+	time      | original: 301.9840441, SD: 304.124833, SD2: 301.5054679, 1-2: 307.4288471, SD2->1-2: 326.1919185, 1-2->SD2: 317.084292
+graphs/steinlib/LIN/lin17.stp
+	#edges    | original: 3641, SD: 3633, SD2: 3633, 1-2: 3637, SD2->1-2: 3627, 1-2->SD2: 3629
+	#vertices | original: 1989, SD: 1989, SD2: 1989, 1-2: 1985, SD2->1-2: 1983, 1-2->SD2: 1985
+	pp time   | original: 0, SD: 29.1376167, SD2: 29.5102501, 1-2: 0.002438001, SD2->1-2: 29.2841119, 1-2->SD2: 29.0259645
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 8951.0, SD: 8628.0, SD2: 8641.0, 1-2: 8951.0, SD2->1-2: 8803.0, 1-2->SD2: 8951.0
+	time      | original: 304.3989457, SD: 321.4928656, SD2: 303.7180833, 1-2: 310.7823078, SD2->1-2: 314.8596472, 1-2->SD2: 326.2111437
+graphs/steinlib/LIN/lin18.stp
+	#edges    | original: 3646, SD: 3639, SD2: 3639, 1-2: 3642, SD2->1-2: 3631, 1-2->SD2: 3635
+	#vertices | original: 1994, SD: 1994, SD2: 1994, 1-2: 1990, SD2->1-2: 1986, 1-2->SD2: 1990
+	pp time   | original: 0, SD: 29.594758, SD2: 29.5239884, 1-2: 0.0024592, SD2->1-2: 29.5979135, 1-2->SD2: 29.2121551
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 10186.0, SD: 10014.0, SD2: 10151.0, 1-2: 10339.0, SD2->1-2: 10323.0, 1-2->SD2: 10159.0
+	time      | original: 304.212821, SD: 300.780677, SD2: 300.762088301, 1-2: 302.786649099, SD2->1-2: 309.0593143, 1-2->SD2: 305.7856815
+graphs/steinlib/LIN/lin19.stp
+	#edges    | original: 3662, SD: 3646, SD2: 3643, 1-2: 3658, SD2->1-2: 3628, 1-2->SD2: 3639
+	#vertices | original: 2010, SD: 2010, SD2: 2010, 1-2: 2006, SD2->1-2: 1996, 1-2->SD2: 2006
+	pp time   | original: 0, SD: 31.2273281, SD2: 31.5930844, 1-2: 0.0024284, SD2->1-2: 31.3965323, 1-2->SD2: 31.2620933
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 13520.0, SD: 13520.0, SD2: 13520.0, 1-2: 13520.0, SD2->1-2: 13520.0, 1-2->SD2: 13520.0
+	time      | original: 309.953284501, SD: 301.3844286, SD2: 301.492576899, 1-2: 305.2350396, SD2->1-2: 300.0525164, 1-2->SD2: 300.288067301
+graphs/steinlib/LIN/lin20.stp
+	#edges    | original: 6709, SD: 6704, SD2: 6704, 1-2: 6705, SD2->1-2: 6697, 1-2->SD2: 6700
+	#vertices | original: 3675, SD: 3675, SD2: 3675, 1-2: 3671, SD2->1-2: 3668, 1-2->SD2: 3671
+	pp time   | original: 0, SD: 186.101871499, SD2: 185.492040001, 1-2: 0.0059477, SD2->1-2: 185.356700399, 1-2->SD2: 186.736188801
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 6899.0, SD: 6950.0, SD2: 7098.0, 1-2: 7098.0, SD2->1-2: 6899.0, 1-2->SD2: 6873.0
+	time      | original: 432.7055715, SD: 392.3349736, SD2: 398.4983484, 1-2: 390.000020701, SD2->1-2: 431.1952266, 1-2->SD2: 389.4451169
+graphs/steinlib/LIN/lin21.stp
+	#edges    | original: 6717, SD: 6714, SD2: 6714, 1-2: 6713, SD2->1-2: 6707, 1-2->SD2: 6710
+	#vertices | original: 3683, SD: 3683, SD2: 3683, 1-2: 3679, SD2->1-2: 3676, 1-2->SD2: 3679
+	pp time   | original: 0, SD: 186.0226111, SD2: 186.8349734, 1-2: 0.0056963, SD2->1-2: 186.310600199, 1-2->SD2: 186.036671201
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 9562.0, SD: 9522.0, SD2: 9414.0, 1-2: 9522.0, SD2->1-2: 9522.0, 1-2->SD2: 9502.0
+	time      | original: 395.7178225, SD: 394.488436601, SD2: 395.731674999, 1-2: 394.238056399, SD2->1-2: 395.473082301, 1-2->SD2: 393.1699288
+graphs/steinlib/LIN/lin22.stp
+	#edges    | original: 6726, SD: 6720, SD2: 6719, 1-2: 6722, SD2->1-2: 6710, 1-2->SD2: 6715
+	#vertices | original: 3692, SD: 3692, SD2: 3692, 1-2: 3688, SD2->1-2: 3683, 1-2->SD2: 3688
+	pp time   | original: 0, SD: 187.963646001, SD2: 188.099824199, 1-2: 0.0055125, SD2->1-2: 188.031568501, 1-2->SD2: 187.922955299
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 10948.0, SD: 10900.0, SD2: 10923.0, 1-2: 10923.0, SD2->1-2: 10891.0, 1-2->SD2: 10948.0
+	time      | original: 447.5617087, SD: 399.3629108, SD2: 446.7940261, 1-2: 453.5188467, SD2->1-2: 448.8810626, 1-2->SD2: 446.12341
+graphs/steinlib/LIN/lin23.stp
+	#edges    | original: 6750, SD: 6735, SD2: 6730, 1-2: 6746, SD2->1-2: 6713, 1-2->SD2: 6726
+	#vertices | original: 3716, SD: 3716, SD2: 3716, 1-2: 3712, SD2->1-2: 3699, 1-2->SD2: 3712
+	pp time   | original: 0, SD: 191.9782893, SD2: 193.2118865, 1-2: 0.005591599, SD2->1-2: 191.923620101, 1-2->SD2: 191.5912186
+	verified  | original: true, SD: true, SD2: true, 1-2: true, SD2->1-2: true, 1-2->SD2: true
+	weight    | original: 18315.0, SD: 18347.0, SD2: 18324.0, 1-2: 18244.0, SD2->1-2: 18413.0, 1-2->SD2: 18428.0
+	time      | original: 421.788964701, SD: 416.8460555, SD2: 418.3007273, 1-2: 417.7116379, SD2->1-2: 416.8984979, 1-2->SD2: 419.9502559

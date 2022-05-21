@@ -1,0 +1,37 @@
+33D32945 STP File, STP Format Version 1.0
+
+SECTION Comment
+Name    "a_test"
+Creator "Stefan Croes"
+Remark  "toy example for debugging"
+END
+
+SECTION Graph
+Nodes 10
+Edges 14
+E 1 2 5
+E 2 3 9
+E 2 4 2
+E 2 5 8
+E 3 4 3
+E 3 8 4
+E 3 9 9
+E 4 7 5
+E 5 6 3
+E 5 10 2
+E 6 7 9
+E 7 8 2
+E 7 9 6
+E 9 10 4
+
+END
+
+SECTION Terminals
+Terminals 4
+T 1
+T 6
+T 8
+T 10
+END
+
+EOF

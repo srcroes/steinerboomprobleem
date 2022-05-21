@@ -1,0 +1,478 @@
+start TWO_APPROXIMATION on b01.stp
+b01.stp -> 82,0 (0,133s)
+start TWO_APPROXIMATION on b02.stp
+b02.stp -> 90,0 (0,031s)
+start TWO_APPROXIMATION on b03.stp
+b03.stp -> 140,0 (0,139s)
+start TWO_APPROXIMATION on b04.stp
+b04.stp -> 59,0 (0,002s)
+start TWO_APPROXIMATION on b05.stp
+b05.stp -> 64,0 (0,007s)
+start TWO_APPROXIMATION on b06.stp
+b06.stp -> 127,0 (0,011s)
+start TWO_APPROXIMATION on b07.stp
+b07.stp -> 111,0 (0,003s)
+start TWO_APPROXIMATION on b08.stp
+b08.stp -> 104,0 (0,007s)
+start TWO_APPROXIMATION on b09.stp
+b09.stp -> 223,0 (0,018s)
+start TWO_APPROXIMATION on b10.stp
+b10.stp -> 98,0 (0,003s)
+start TWO_APPROXIMATION on b11.stp
+b11.stp -> 90,0 (0,004s)
+start TWO_APPROXIMATION on b12.stp
+b12.stp -> 174,0 (0,032s)
+start TWO_APPROXIMATION on b13.stp
+b13.stp -> 175,0 (0,010s)
+start TWO_APPROXIMATION on b14.stp
+b14.stp -> 237,0 (0,028s)
+start TWO_APPROXIMATION on b15.stp
+b15.stp -> 323,0 (0,041s)
+start TWO_APPROXIMATION on b16.stp
+b16.stp -> 137,0 (0,014s)
+start TWO_APPROXIMATION on b17.stp
+b17.stp -> 134,0 (0,016s)
+start TWO_APPROXIMATION on b18.stp
+b18.stp -> 224,0 (0,056s)
+start ZELIKOVSKY on b01.stp
+b01.stp -> 82,0 (0,099s)
+start ZELIKOVSKY on b02.stp
+b02.stp -> 83,0 (0,060s)
+start ZELIKOVSKY on b03.stp
+b03.stp -> 139,0 (1,008s)
+start ZELIKOVSKY on b04.stp
+b04.stp -> 59,0 (0,011s)
+start ZELIKOVSKY on b05.stp
+b05.stp -> 62,0 (0,056s)
+start ZELIKOVSKY on b06.stp
+b06.stp -> 124,0 (0,801s)
+start ZELIKOVSKY on b07.stp
+b07.stp -> 111,0 (0,051s)
+start ZELIKOVSKY on b08.stp
+b08.stp -> 105,0 (0,264s)
+start ZELIKOVSKY on b09.stp
+b09.stp -> 220,0 (8,850s)
+start ZELIKOVSKY on b10.stp
+b10.stp -> 89,0 (0,039s)
+start ZELIKOVSKY on b11.stp
+b11.stp -> 88,0 (0,283s)
+start ZELIKOVSKY on b12.stp
+b12.stp -> 174,0 (7,291s)
+start ZELIKOVSKY on b13.stp
+b13.stp -> 173,0 (0,127s)
+start ZELIKOVSKY on b14.stp
+b14.stp -> 237,0 (1,519s)
+start ZELIKOVSKY on b15.stp
+b15.stp -> 318,0 (52,163s)
+start ZELIKOVSKY on b16.stp
+b16.stp -> 130,0 (0,091s)
+start ZELIKOVSKY on b17.stp
+b17.stp -> 131,0 (1,373s)
+start ZELIKOVSKY on b18.stp
+b18.stp -> 218,0 (65,298s)
+graphs\steinlib\B\B.txt
+start TWO_APPROXIMATION on c01.stp
+c01.stp -> 88,0 (0,004s)
+start TWO_APPROXIMATION on c02.stp
+c02.stp -> 144,0 (0,008s)
+start TWO_APPROXIMATION on c03.stp
+c03.stp -> 780,0 (0,428s)
+start TWO_APPROXIMATION on c04.stp
+c04.stp -> 1112,0 (0,813s)
+start TWO_APPROXIMATION on c05.stp
+c05.stp -> 1604,0 (3,718s)
+start TWO_APPROXIMATION on c06.stp
+c06.stp -> 60,0 (0,021s)
+start TWO_APPROXIMATION on c07.stp
+c07.stp -> 115,0 (0,010s)
+start TWO_APPROXIMATION on c08.stp
+c08.stp -> 531,0 (0,513s)
+start TWO_APPROXIMATION on c09.stp
+c09.stp -> 728,0 (1,073s)
+start TWO_APPROXIMATION on c10.stp
+c10.stp -> 1121,0 (4,417s)
+start TWO_APPROXIMATION on c11.stp
+c11.stp -> 37,0 (0,004s)
+start TWO_APPROXIMATION on c12.stp
+c12.stp -> 48,0 (0,013s)
+start TWO_APPROXIMATION on c13.stp
+c13.stp -> 273,0 (0,784s)
+start TWO_APPROXIMATION on c14.stp
+c14.stp -> 341,0 (1,633s)
+start TWO_APPROXIMATION on c15.stp
+c15.stp -> 571,0 (6,669s)
+start TWO_APPROXIMATION on c16.stp
+c16.stp -> 12,0 (0,015s)
+start TWO_APPROXIMATION on c17.stp
+c17.stp -> 20,0 (0,059s)
+start TWO_APPROXIMATION on c18.stp
+c18.stp -> 124,0 (2,495s)
+start TWO_APPROXIMATION on c19.stp
+c19.stp -> 160,0 (5,425s)
+start TWO_APPROXIMATION on c20.stp
+c20.stp -> 268,0 (20,500s)
+start ZELIKOVSKY on c01.stp
+c01.stp -> 87,0 (0,367s)
+start ZELIKOVSKY on c02.stp
+c02.stp -> 144,0 (0,418s)
+start ZELIKOVSKY on c03.stp
+c03.stp -> Infinity (315,085s (timeout))
+start ZELIKOVSKY on c04.stp
+c04.stp -> Infinity (850,425s (timeout))
+start ZELIKOVSKY on c05.stp
+c05.stp -> Infinity (300,011s (timeout))
+start ZELIKOVSKY on c06.stp
+c06.stp -> 55,0 (0,477s)
+start ZELIKOVSKY on c07.stp
+c07.stp -> 107,0 (0,488s)
+start ZELIKOVSKY on c08.stp
+c08.stp -> Infinity (389,641s (timeout))
+start ZELIKOVSKY on c09.stp
+c09.stp -> Infinity (811,152s (timeout))
+start ZELIKOVSKY on c10.stp
+c10.stp -> Infinity (300,011s (timeout))
+start ZELIKOVSKY on c11.stp
+c11.stp -> 33,0 (0,474s)
+start ZELIKOVSKY on c12.stp
+c12.stp -> 48,0 (0,483s)
+start ZELIKOVSKY on c13.stp
+c13.stp -> Infinity (375,537s (timeout))
+start ZELIKOVSKY on c14.stp
+c14.stp -> Infinity (800,140s (timeout))
+start ZELIKOVSKY on c15.stp
+c15.stp -> Infinity (300,009s (timeout))
+start ZELIKOVSKY on c16.stp
+c16.stp -> 12,0 (0,420s)
+start ZELIKOVSKY on c17.stp
+c17.stp -> 19,0 (0,481s)
+start ZELIKOVSKY on c18.stp
+c18.stp -> Infinity (315,589s (timeout))
+start ZELIKOVSKY on c19.stp
+c19.stp -> Infinity (661,253s (timeout))
+start ZELIKOVSKY on c20.stp
+c20.stp -> Infinity (300,004s (timeout))
+graphs\steinlib\C\C.txt
+start TWO_APPROXIMATION on d01.stp
+d01.stp -> 107,0 (0,003s)
+start TWO_APPROXIMATION on d02.stp
+d02.stp -> 237,0 (0,013s)
+start TWO_APPROXIMATION on d03.stp
+d03.stp -> 1644,0 (3,431s)
+start TWO_APPROXIMATION on d04.stp
+d04.stp -> 2001,0 (7,547s)
+start TWO_APPROXIMATION on d05.stp
+d05.stp -> 3313,0 (28,477s)
+start TWO_APPROXIMATION on d06.stp
+d06.stp -> 73,0 (0,004s)
+start TWO_APPROXIMATION on d07.stp
+d07.stp -> 105,0 (0,014s)
+start TWO_APPROXIMATION on d08.stp
+d08.stp -> 1143,0 (4,196s)
+start TWO_APPROXIMATION on d09.stp
+d09.stp -> 1545,0 (10,417s)
+start TWO_APPROXIMATION on d10.stp
+d10.stp -> 2161,0 (34,471s)
+start TWO_APPROXIMATION on d11.stp
+d11.stp -> 32,0 (0,009s)
+start TWO_APPROXIMATION on d12.stp
+d12.stp -> 44,0 (0,020s)
+start TWO_APPROXIMATION on d13.stp
+d13.stp -> 534,0 (6,209s)
+start TWO_APPROXIMATION on d14.stp
+d14.stp -> 708,0 (14,191s)
+start TWO_APPROXIMATION on d15.stp
+d15.stp -> 1151,0 (56,563s)
+start TWO_APPROXIMATION on d16.stp
+d16.stp -> 16,0 (0,036s)
+start TWO_APPROXIMATION on d17.stp
+d17.stp -> 26,0 (0,134s)
+start TWO_APPROXIMATION on d18.stp
+d18.stp -> 253,0 (33,774s)
+start TWO_APPROXIMATION on d19.stp
+d19.stp -> 347,0 (70,110s)
+start TWO_APPROXIMATION on d20.stp
+d20.stp -> 545,0 (287,736s)
+start ZELIKOVSKY on d01.stp
+d01.stp -> 110,0 (3,262s)
+start ZELIKOVSKY on d02.stp
+d02.stp -> 224,0 (3,500s)
+start ZELIKOVSKY on d03.stp
+d03.stp -> Infinity (3931,528s (timeout))
+start ZELIKOVSKY on d04.stp
+d04.stp -> Infinity (300,005s (timeout))
+start ZELIKOVSKY on d05.stp
+d05.stp -> Infinity (300,012s (timeout))
+start ZELIKOVSKY on d06.stp
+d06.stp -> 68,0 (3,954s)
+start ZELIKOVSKY on d07.stp
+d07.stp -> 105,0 (3,865s)
+start ZELIKOVSKY on d08.stp
+d08.stp -> Infinity (3888,590s (timeout))
+start ZELIKOVSKY on d09.stp
+d09.stp -> Infinity (300,006s (timeout))
+start ZELIKOVSKY on d10.stp
+d10.stp -> Infinity (300,001s (timeout))
+start ZELIKOVSKY on d11.stp
+d11.stp -> 31,0 (3,666s)
+start ZELIKOVSKY on d12.stp
+d12.stp -> 42,0 (3,729s)
+start ZELIKOVSKY on d13.stp
+d13.stp -> Infinity (3504,573s (timeout))
+start ZELIKOVSKY on d14.stp
+d14.stp -> Infinity (300,008s (timeout))
+start ZELIKOVSKY on d15.stp
+d15.stp -> Infinity (300,008s (timeout))
+start ZELIKOVSKY on d16.stp
+d16.stp -> 14,0 (3,353s)
+start ZELIKOVSKY on d17.stp
+d17.stp -> 24,0 (3,498s)
+start ZELIKOVSKY on d18.stp
+d18.stp -> Infinity (2979,715s (timeout))
+start ZELIKOVSKY on d19.stp
+d19.stp -> Infinity (300,000s (timeout))
+start ZELIKOVSKY on d20.stp
+d20.stp -> Infinity (300,001s (timeout))
+graphs\steinlib\D\D.txt
+start TWO_APPROXIMATION on e01.stp
+e01.stp -> 125,0 (0,008s)
+start TWO_APPROXIMATION on e02.stp
+e02.stp -> 255,0 (0,038s)
+start TWO_APPROXIMATION on e03.stp
+e03.stp -> 4242,0 (57,215s)
+start TWO_APPROXIMATION on e04.stp
+e04.stp -> 5319,0 (124,100s)
+start TWO_APPROXIMATION on e05.stp
+e05.stp -> Infinity (300,002s (timeout))
+start TWO_APPROXIMATION on e06.stp
+e06.stp -> 86,0 (0,011s)
+start TWO_APPROXIMATION on e07.stp
+e07.stp -> 172,0 (0,058s)
+start TWO_APPROXIMATION on e08.stp
+e08.stp -> 2812,0 (68,903s)
+start TWO_APPROXIMATION on e09.stp
+e09.stp -> 3817,0 (157,612s)
+start TWO_APPROXIMATION on e10.stp
+e10.stp -> Infinity (300,014s (timeout))
+start TWO_APPROXIMATION on e11.stp
+e11.stp -> 39,0 (0,022s)
+start TWO_APPROXIMATION on e12.stp
+e12.stp -> 69,0 (0,095s)
+start TWO_APPROXIMATION on e13.stp
+e13.stp -> 1362,0 (116,305s)
+start TWO_APPROXIMATION on e14.stp
+e14.stp -> 1811,0 (250,323s)
+start TWO_APPROXIMATION on e15.stp
+e15.stp -> Infinity (300,006s (timeout))
+start TWO_APPROXIMATION on e16.stp
+e16.stp -> 19,0 (0,068s)
+start TWO_APPROXIMATION on e17.stp
+e17.stp -> 29,0 (0,347s)
+start TWO_APPROXIMATION on e18.stp
+e18.stp -> Infinity (300,002s (timeout))
+start TWO_APPROXIMATION on e19.stp
+e19.stp -> Infinity (300,008s (timeout))
+start TWO_APPROXIMATION on e20.stp
+e20.stp -> Infinity (300,014s (timeout))
+start ZELIKOVSKY on e01.stp
+e01.stp -> 113,0 (46,380s)
+start ZELIKOVSKY on e02.stp
+e02.stp -> 227,0 (46,631s)
+start ZELIKOVSKY on e03.stp
+e03.stp -> Infinity (300,004s (timeout))
+start ZELIKOVSKY on e04.stp
+e04.stp -> Infinity (300,009s (timeout))
+start ZELIKOVSKY on e05.stp
+e05.stp -> Infinity (300,006s (timeout))
+start ZELIKOVSKY on e06.stp
+e06.stp -> 76,0 (60,040s)
+start ZELIKOVSKY on e07.stp
+e07.stp -> 147,0 (59,907s)
+start ZELIKOVSKY on e08.stp
+e08.stp -> Infinity (300,003s (timeout))
+start ZELIKOVSKY on e09.stp
+e09.stp -> Infinity (300,006s (timeout))
+start ZELIKOVSKY on e10.stp
+e10.stp -> Infinity (300,002s (timeout))
+start ZELIKOVSKY on e11.stp
+e11.stp -> 37,0 (57,283s)
+start ZELIKOVSKY on e12.stp
+e12.stp -> 70,0 (56,485s)
+start ZELIKOVSKY on e13.stp
+e13.stp -> Infinity (300,019s (timeout))
+start ZELIKOVSKY on e14.stp
+e14.stp -> Infinity (300,016s (timeout))
+start ZELIKOVSKY on e15.stp
+e15.stp -> Infinity (300,015s (timeout))
+start ZELIKOVSKY on e16.stp
+e16.stp -> 15,0 (49,200s)
+start ZELIKOVSKY on e17.stp
+e17.stp -> 26,0 (48,758s)
+start ZELIKOVSKY on e18.stp
+e18.stp -> Infinity (300,004s (timeout))
+start ZELIKOVSKY on e19.stp
+e19.stp -> Infinity (300,010s (timeout))
+start ZELIKOVSKY on e20.stp
+e20.stp -> Infinity (300,002s (timeout))
+graphs\steinlib\E\E.txt
+start TWO_APPROXIMATION on lin01.stp
+lin01.stp -> 503,0 (0,000s)
+start TWO_APPROXIMATION on lin02.stp
+lin02.stp -> 557,0 (0,000s)
+start TWO_APPROXIMATION on lin03.stp
+lin03.stp -> 932,0 (0,000s)
+start TWO_APPROXIMATION on lin04.stp
+lin04.stp -> 1267,0 (0,001s)
+start TWO_APPROXIMATION on lin05.stp
+lin05.stp -> 1824,0 (0,001s)
+start TWO_APPROXIMATION on lin06.stp
+lin06.stp -> 1384,0 (0,002s)
+start TWO_APPROXIMATION on lin07.stp
+lin07.stp -> 2081,0 (0,001s)
+start TWO_APPROXIMATION on lin08.stp
+lin08.stp -> 2304,0 (0,003s)
+start TWO_APPROXIMATION on lin09.stp
+lin09.stp -> 2785,0 (0,004s)
+start TWO_APPROXIMATION on lin10.stp
+lin10.stp -> 4398,0 (0,011s)
+start TWO_APPROXIMATION on lin11.stp
+lin11.stp -> 4335,0 (0,011s)
+start TWO_APPROXIMATION on lin12.stp
+lin12.stp -> 5356,0 (0,015s)
+start TWO_APPROXIMATION on lin13.stp
+lin13.stp -> 4618,0 (0,025s)
+start TWO_APPROXIMATION on lin14.stp
+lin14.stp -> 6199,0 (0,047s)
+start TWO_APPROXIMATION on lin15.stp
+lin15.stp -> 7382,0 (0,106s)
+start TWO_APPROXIMATION on lin16.stp
+lin16.stp -> 6806,0 (0,037s)
+start TWO_APPROXIMATION on lin17.stp
+lin17.stp -> 9468,0 (0,096s)
+start TWO_APPROXIMATION on lin18.stp
+lin18.stp -> 10766,0 (0,159s)
+start TWO_APPROXIMATION on lin19.stp
+lin19.stp -> 13792,0 (0,401s)
+start TWO_APPROXIMATION on lin20.stp
+lin20.stp -> 7199,0 (0,055s)
+start TWO_APPROXIMATION on lin21.stp
+lin21.stp -> 9616,0 (0,178s)
+start TWO_APPROXIMATION on lin22.stp
+lin22.stp -> 11095,0 (0,468s)
+start TWO_APPROXIMATION on lin23.stp
+lin23.stp -> 18580,0 (1,062s)
+start ZELIKOVSKY on lin01.stp
+lin01.stp -> 503,0 (0,001s)
+start ZELIKOVSKY on lin02.stp
+lin02.stp -> 557,0 (0,002s)
+start ZELIKOVSKY on lin03.stp
+lin03.stp -> 932,0 (0,003s)
+start ZELIKOVSKY on lin04.stp
+lin04.stp -> 1239,0 (0,018s)
+start ZELIKOVSKY on lin05.stp
+lin05.stp -> 1703,0 (0,024s)
+start ZELIKOVSKY on lin06.stp
+lin06.stp -> 1375,0 (0,075s)
+start ZELIKOVSKY on lin07.stp
+lin07.stp -> 1911,0 (0,120s)
+start ZELIKOVSKY on lin08.stp
+lin08.stp -> 2248,0 (0,136s)
+start ZELIKOVSKY on lin09.stp
+lin09.stp -> 2752,0 (0,171s)
+start ZELIKOVSKY on lin10.stp
+lin10.stp -> 4163,0 (0,511s)
+start ZELIKOVSKY on lin11.stp
+lin11.stp -> 4314,0 (2,357s)
+start ZELIKOVSKY on lin12.stp
+lin12.stp -> 5314,0 (2,523s)
+start ZELIKOVSKY on lin13.stp
+lin13.stp -> 4652,0 (2,600s)
+start ZELIKOVSKY on lin14.stp
+lin14.stp -> 5912,0 (3,491s)
+start ZELIKOVSKY on lin15.stp
+lin15.stp -> 7211,0 (16,075s)
+start ZELIKOVSKY on lin16.stp
+lin16.stp -> 6618,0 (35,693s)
+start ZELIKOVSKY on lin17.stp
+lin17.stp -> 8405,0 (34,450s)
+start ZELIKOVSKY on lin18.stp
+lin18.stp -> 9965,0 (37,986s)
+start ZELIKOVSKY on lin19.stp
+lin19.stp -> 13371,0 (75,137s)
+start ZELIKOVSKY on lin20.stp
+lin20.stp -> 6888,0 (223,979s)
+start ZELIKOVSKY on lin21.stp
+lin21.stp -> 9297,0 (216,789s)
+start ZELIKOVSKY on lin22.stp
+lin22.stp -> 10642,0 (222,414s)
+start ZELIKOVSKY on lin23.stp
+lin23.stp -> Infinity (303,469s (timeout))
+graphs\steinlib\LIN\LIN.txt
+start TWO_APPROXIMATION on diw0234.stp
+diw0234.stp -> 2065,0 (0,423s)
+start TWO_APPROXIMATION on diw0250.stp
+diw0250.stp -> 350,0 (0,002s)
+start TWO_APPROXIMATION on diw0260.stp
+diw0260.stp -> 476,0 (0,003s)
+start TWO_APPROXIMATION on diw0313.stp
+diw0313.stp -> 397,0 (0,005s)
+start TWO_APPROXIMATION on diw0393.stp
+diw0393.stp -> 315,0 (0,002s)
+start TWO_APPROXIMATION on diw0445.stp
+diw0445.stp -> 1413,0 (0,156s)
+start TWO_APPROXIMATION on diw0459.stp
+diw0459.stp -> 1382,0 (0,124s)
+start TWO_APPROXIMATION on diw0460.stp
+diw0460.stp -> 394,0 (0,005s)
+start TWO_APPROXIMATION on diw0473.stp
+diw0473.stp -> 1146,0 (0,070s)
+start TWO_APPROXIMATION on diw0487.stp
+diw0487.stp -> 1487,0 (0,057s)
+start TWO_APPROXIMATION on diw0495.stp
+diw0495.stp -> 638,0 (0,006s)
+start TWO_APPROXIMATION on diw0513.stp
+diw0513.stp -> 649,0 (0,007s)
+start TWO_APPROXIMATION on diw0523.stp
+diw0523.stp -> 561,0 (0,006s)
+start TWO_APPROXIMATION on diw0540.stp
+diw0540.stp -> 377,0 (0,002s)
+start TWO_APPROXIMATION on diw0559.stp
+diw0559.stp -> 1658,0 (0,111s)
+start TWO_APPROXIMATION on diw0795.stp
+diw0795.stp -> 1716,0 (0,048s)
+start TWO_APPROXIMATION on diw0801.stp
+diw0801.stp -> 1682,0 (0,041s)
+start ZELIKOVSKY on diw0234.stp
+diw0234.stp -> Infinity (578,165s (timeout))
+start ZELIKOVSKY on diw0250.stp
+diw0250.stp -> 350,0 (0,203s)
+start ZELIKOVSKY on diw0260.stp
+diw0260.stp -> 468,0 (0,615s)
+start ZELIKOVSKY on diw0313.stp
+diw0313.stp -> 397,0 (0,451s)
+start ZELIKOVSKY on diw0393.stp
+diw0393.stp -> 302,0 (0,050s)
+start ZELIKOVSKY on diw0445.stp
+diw0445.stp -> 1371,0 (35,321s)
+start ZELIKOVSKY on diw0459.stp
+diw0459.stp -> 1362,0 (184,906s)
+start ZELIKOVSKY on diw0460.stp
+diw0460.stp -> 345,0 (0,189s)
+start ZELIKOVSKY on diw0473.stp
+diw0473.stp -> 1098,0 (43,503s)
+start ZELIKOVSKY on diw0487.stp
+diw0487.stp -> 1449,0 (56,633s)
+start ZELIKOVSKY on diw0495.stp
+diw0495.stp -> 629,0 (3,200s)
+start ZELIKOVSKY on diw0513.stp
+diw0513.stp -> 614,0 (2,990s)
+start ZELIKOVSKY on diw0523.stp
+diw0523.stp -> 561,0 (4,783s)
+start ZELIKOVSKY on diw0540.stp
+diw0540.stp -> 374,0 (0,106s)
+start ZELIKOVSKY on diw0559.stp
+diw0559.stp -> 1583,0 (200,657s)
+start ZELIKOVSKY on diw0795.stp
+diw0795.stp -> 1620,0 (134,789s)
+start ZELIKOVSKY on diw0801.stp
+diw0801.stp -> 1615,0 (109,749s)
+graphs\steinlib\DIW\DIW.txt
